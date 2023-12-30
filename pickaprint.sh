@@ -69,7 +69,8 @@ else
     if [ -z "$FList" ]; then
         echo "Couldn't detect ABI list. Fallback to find profile/fingerprint from similar paths."
         FList=$(find ./JSON -type f -maxdepth 4 -path "*${ABIList}*")
-    else
+    fi
+    if [ -z "$FList" ]; then
         echo "Couldn't detect ABI list. Will use profile/fingerprint from anywhere."
         FList=$(find ./JSON -type f -maxdepth 4)
     fi
