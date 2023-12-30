@@ -109,6 +109,7 @@ elif [ $Author == "chiteroman" ]; then
 elif [ $Author == "osm0sis" ]; then
     echo "Detected osm0sis module. Will use /data/adb/modules/playintegrityfix/custom.pif.json"
     Target="/data/adb/modules/playintegrityfix/custom.pif.json"
+		sh ./data/adb/modules/playintegrityfix/migrate.sh # v5 migration script
 else
     echo "PIF module found but not recognized! Will use /data/adb/pif.json"
     Target="/data/adb/pif.json"
