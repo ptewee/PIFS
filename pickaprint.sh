@@ -128,8 +128,10 @@ echo "Copying JSON to ${Target}..."
 cp "${RandFP}" "${Target}"
 
 if [ $Author == "osm0sis" ]; then
-    echo "Detected osm0sis module. Running v5 migration script"
-    sh /data/adb/modules/playintegrityfix/migrate.sh # v5 migration script
+    if [ -e "/data/adb/modules/playintegrityfix/migrate.sh" ]; then
+        echo "Detected osm0sis module. Running v5 migration script"
+        sh /data/adb/modules/playintegrityfix/migrate.sh # v5 migration script
+    fi
 fi
 
 # Flag tested profiles
