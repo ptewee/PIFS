@@ -10,77 +10,15 @@ if [ ! -d "/data/adb" ]; then
     exit 1
 fi
 
-if [ ! -d "./JSON" ]; then
-    if [ ! -f "./PIFS.zip" ]; then
-        echo "Downloading profile/fingerprint repo from GitHub..."
-        dUrl="https://codeload.github.com/TheFreeman193/PIFS/zip/refs/heads/main"
-        dTarget="PIFS.zip"
-        if [ $(command -v curl) ]; then
-            curl -o "$dTarget" "$dUrl"
-        elif [ $(command -v wget) ]; then
-            wget -O "$dTarget" "$dUrl"
-        elif [ $(command -v /system/bin/curl) ]; then
-            /system/bin/curl -o "$dTarget" "$dUrl"
-        elif [ $(command -v /system/bin/wget) ]; then
-            /system/bin/wget -O "$dTarget" "$dUrl"
-        elif [ $(command -v /data/data/com.termux/files/usr/bin/curl) ]; then
-            /data/data/com.termux/files/usr/bin/curl -o "$dTarget" "$dUrl"
-        elif [ $(command -v /data/data/com.termux/files/usr/include/curl) ]; then
-            /data/data/com.termux/files/usr/include/curl -o "$dTarget" "$dUrl"
-        elif [ $(command -v /data/adb/magisk/busybox) ]; then
-            /data/adb/magisk/busybox wget -O "$dTarget" "$dUrl"
-        elif [ $(command -v /debug_ramdisk/.magisk/busybox/wget) ]; then
-            /debug_ramdisk/.magisk/busybox/wget -O "$dTarget" "$dUrl"
-        elif [ $(command -v /sbin/.magisk/busybox/wget) ]; then
-            /sbin/.magisk/busybox/wget -O "$dTarget" "$dUrl"
-        elif [ $(command -v /system/xbin/wget) ]; then
-            /system/xbin/wget -O "$dTarget" "$dUrl"
-        elif [ $(command -v /system/xbin/curl) ]; then
-            /system/xbin/curl -o "$dTarget" "$dUrl"
-        else
-            echo "Couldn't find wget or curl to download the repository.\nYou'll have to download it manually."
-            exit 1
-        fi
-    fi
-    echo "Extracting profiles/fingerprints from PIFS.zip..."
-    unzip -o PIFS.zip -x .git* -x README.md -x LICENSE
-    mv ./PIFS-main/JSON .
-    mv ./PIFS-main/pickaprint.sh .
-    rm -r ./PIFS-main
-fi
-
-if [ -v FORCEABI ]; then
-    echo "\$FORCEABI is set, will only pick profile from '${FORCEABI}'"
-    FList=$(find "./JSON/${FORCEABI}" -type f)
-    if [ -z "$FList" ]; then
-        echo "No profiles/fingerprints found for ABI list: '${FORCEABI}'."
-        exit 2
-    fi
+if [ ! -d "./works_for_me" ]; then
+    echo "No working folder found."
+    exit 2
 else
-    echo "Detecting device ABI list..."
-    ABIList=$(getprop | grep -E '\[ro\.product\.cpu\.abilist\]: \[' | sed -r 's/\[[^]]+\]: \[(.+)\]/\1/')
-    if [ -z "$ABIList" ]; then # Old devices had single string prop for this
-        ABIList=$(getprop | grep -E '\[ro\.product\.cpu\.abi\]: \[' | sed -r 's/\[[^]]+\]: \[(.+)\]/\1/')
-    fi
-    if [ -n "$ABIList" ]; then
-        echo "Will use profile/fingerprint with ABI list '${ABIList}'"
-        FList=$(find "./JSON/${ABIList}" -type f -maxdepth 3)
-    fi
+    echo "Selecting a working print..."
+    FList=$(find ./works_for_me -type f)
     if [ -z "$FList" ]; then
-        echo "Couldn't detect ABI list. Fallback to find profile/fingerprint from similar paths."
-        FList=$(find ./JSON -type f -maxdepth 4 -path "*${ABIList}*")
-    fi
-    if [ -z "$FList" ]; then
-        echo "Couldn't detect ABI list. Will use profile/fingerprint from anywhere."
-        FList=$(find ./JSON -type f -maxdepth 4)
-    fi
-    if [ -z "$FList" ]; then
-        echo "No profiles/fingerprints found for ABI list: '${ABIList}'. Will use profile/fingerprint from anywhere."
-        FList=$(find ./JSON -type f -maxdepth 4)
-        if [ -z "$FList" ]; then
-            echo "Couldn't find any profiles/fingerprints. Is the $PWD/JSON directory empty?"
-            exit 3
-        fi
+        echo "Couldn't find any profiles/fingerprints. Is the $PWD/works_for_me directory empty?"
+        exit 3
     fi
 fi
 
@@ -115,27 +53,8 @@ else
     Target="/data/adb/pif.json"
 fi
 
-# Back up old profiles
-if [ -f "${Target}" ]; then
-    if [ ! -d /data/adb/oldpifs ]; then
-        mkdir /data/adb/oldpifs
-    fi
-    TStamp=$(date +%Y%m%dT%H%M%S)
-    echo "Backing up current file to '/data/adb/oldpifs/${TStamp}.json'..."
-    mv "${Target}" "/data/adb/oldpifs/${TStamp}.json"
-fi
-
 echo "Copying JSON to ${Target}..."
 cp "${RandFP}" "${Target}"
-
-# Flag tested profiles
-RandFPFolder=$(dirname "${RandFP}") # Get folder of RandFP
-RandFPFolderTested="${RandFPFolder}/tested"
-if [ ! -d "${RandFPFolderTested}" ]; then
-    mkdir "${RandFPFolderTested}"
-fi
-echo "Moving JSON to ${RandFPFolderTested}..."
-mv "${RandFP}" "${RandFPFolderTested}"
 
 echo "Killing GMS unstable process..."
 killall com.google.android.gms.unstable
