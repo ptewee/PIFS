@@ -83,6 +83,9 @@ else
     fi
 fi
 
+# Ensure correct starting path
+cd "$RootDir"
+
 # Check if interactive
 INTERACTIVE=0
 echo "$0" | grep 'pickaprint\.sh$' >/dev/null && INTERACTIVE=1
@@ -203,6 +206,9 @@ if [ "$(echo "$*" | grep -e "-[a-z]*c")" ]; then
     else
         echo "WARNING: No profiles/fingerprints found in '$ConfirmedDir'"
     fi
+
+    # Script was run with "-c", consider it as non-interactive
+    INTERACTIVE=0
 fi
 
 # Allow overrides, enable with 'export FORCEABI="<abi_list>"'
