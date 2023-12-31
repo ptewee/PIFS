@@ -1,7 +1,7 @@
 #!/system/bin/sh
-cd "$(dirname "$0")"
 
 (
+cd "$(dirname "$0")"
 # Copyright (C) MIT License 2023 Nicholas Bissell (TheFreeman193)
 echo "\n===== PIFS Random Profile/Fingerprint Picker ====="
 
