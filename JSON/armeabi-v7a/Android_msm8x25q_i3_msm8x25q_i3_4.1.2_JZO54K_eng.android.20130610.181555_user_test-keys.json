@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Android",
-  "MODEL": "Q404",
-  "BRAND": "Android",
-  "PRODUCT": "msm8x25q_i3",
-  "DEVICE": "msm8x25q_i3",
-  "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
-  "ID": "JZO54K",
-  "INCREMENTAL": "eng.android.20130610.181555",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "Android/msm8x25q_i3/msm8x25q_i3:4.1.2/JZO54K/eng.android.20130610.181555:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
-  "*.build.id": "JZO54K",
-  "*.security_patch": "",
-  "*.build.version.sdk": "16"
+  // Build Fields
+    "MANUFACTURER": "Android",
+    "MODEL": "Q404",
+    "FINGERPRINT": "Android/msm8x25q_i3/msm8x25q_i3:4.1.2/JZO54K/eng.android.20130610.181555:user/test-keys",
+    "BRAND": "Android",
+    "PRODUCT": "msm8x25q_i3",
+    "DEVICE": "msm8x25q_i3",
+    "RELEASE": "4.1.2",
+    "ID": "JZO54K",
+    "INCREMENTAL": "eng.android.20130610.181555",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JZO54K",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

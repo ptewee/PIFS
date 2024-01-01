@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "asus",
-  "MODEL": "EPAD",
-  "BRAND": "asus",
-  "PRODUCT": "WW_epad",
-  "DEVICE": "EeePad",
-  "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
-  "ID": "JOP40D",
-  "INCREMENTAL": "WW_epad-10.6.1.31-20130823",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "asus/WW_epad/EeePad:4.2.1/JOP40D/WW_epad-10.6.1.31-20130823:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JOP40D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "asus",
+    "MODEL": "EPAD",
+    "FINGERPRINT": "asus/WW_epad/EeePad:4.2.1/JOP40D/WW_epad-10.6.1.31-20130823:user/release-keys",
+    "BRAND": "asus",
+    "PRODUCT": "WW_epad",
+    "DEVICE": "EeePad",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "WW_epad-10.6.1.31-20130823",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

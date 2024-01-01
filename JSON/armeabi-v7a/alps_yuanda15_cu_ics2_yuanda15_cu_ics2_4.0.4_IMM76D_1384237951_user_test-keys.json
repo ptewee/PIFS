@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "alps",
-  "MODEL": "M9600",
-  "BRAND": "alps",
-  "PRODUCT": "M9600",
-  "DEVICE": "M9600",
-  "RELEASE": "4.2",
-  "RELEASE_OR_CODENAME": "4.2",
-  "ID": "IMM76D",
-  "INCREMENTAL": "eng.root.1384237951",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "alps/yuanda15_cu_ics2/yuanda15_cu_ics2:4.0.4/IMM76D/1384237951:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
-  "*.build.id": "IMM76D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "15"
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "M9600",
+    "FINGERPRINT": "alps/yuanda15_cu_ics2/yuanda15_cu_ics2:4.0.4/IMM76D/1384237951:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "M9600",
+    "DEVICE": "M9600",
+    "RELEASE": "4.0.4",
+    "ID": "IMM76D",
+    "INCREMENTAL": "eng.root.1384237951",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "IMM76D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Freelander",
-  "MODEL": "Freelander PX2",
-  "BRAND": "Freelander",
-  "PRODUCT": "yecon89_tb_jb2",
-  "DEVICE": "yecon89_tb_jb2",
-  "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
-  "ID": "JOP40D",
-  "INCREMENTAL": "eng.hede.1377049152",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "alps/yecon89_tb_jb2/yecon89_tb_jb2:4.2.1/JOP40D/1377049152:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JOP40D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "Freelander",
+    "MODEL": "Freelander PX2",
+    "FINGERPRINT": "alps/yecon89_tb_jb2/yecon89_tb_jb2:4.2.1/JOP40D/1377049152:user/release-keys",
+    "BRAND": "Freelander",
+    "PRODUCT": "yecon89_tb_jb2",
+    "DEVICE": "yecon89_tb_jb2",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "eng.hede.1377049152",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

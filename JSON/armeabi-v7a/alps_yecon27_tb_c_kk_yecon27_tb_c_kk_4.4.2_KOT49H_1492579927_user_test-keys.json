@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "unknown",
-  "MODEL": "CAR AUDIO",
-  "BRAND": "unknown",
-  "PRODUCT": "unknown",
-  "DEVICE": "yecon27_tb_c_kk",
-  "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
-  "ID": "MID",
-  "INCREMENTAL": "eng.android2014.1492579927",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "alps/yecon27_tb_c_kk/yecon27_tb_c_kk:4.4.2/KOT49H/1492579927:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
-  "*.build.id": "MID",
-  "*.security_patch": "",
-  "*.build.version.sdk": "19"
+  // Build Fields
+    "MANUFACTURER": "unknown",
+    "MODEL": "CAR AUDIO",
+    "FINGERPRINT": "alps/yecon27_tb_c_kk/yecon27_tb_c_kk:4.4.2/KOT49H/1492579927:user/test-keys",
+    "BRAND": "unknown",
+    "PRODUCT": "unknown",
+    "DEVICE": "yecon27_tb_c_kk",
+    "RELEASE": "4.4.2",
+    "ID": "MID",
+    "INCREMENTAL": "eng.android2014.1492579927",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MID",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
