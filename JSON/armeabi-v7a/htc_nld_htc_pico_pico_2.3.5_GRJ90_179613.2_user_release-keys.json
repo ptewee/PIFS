@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "HTC",
-  "MODEL": "htc wildfire s a510e",
-  "BRAND": "htc_nld",
-  "PRODUCT": "htc_pico",
-  "DEVICE": "pico",
-  "RELEASE": "2.3.5",
-  "RELEASE_OR_CODENAME": "2.3.5",
-  "ID": "GRJ90",
-  "INCREMENTAL": "179613.2",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "htc_nld/htc_pico/pico:2.3.5/GRJ90/179613.2:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
-  "*.build.id": "GRJ90",
-  "*.security_patch": "",
-  "*.build.version.sdk": "10"
+  // Build Fields
+    "MANUFACTURER": "HTC",
+    "MODEL": "htc wildfire s a510e",
+    "FINGERPRINT": "htc_nld/htc_pico/pico:2.3.5/GRJ90/179613.2:user/release-keys",
+    "BRAND": "htc_nld",
+    "PRODUCT": "htc_pico",
+    "DEVICE": "pico",
+    "RELEASE": "2.3.5",
+    "ID": "GRJ90",
+    "INCREMENTAL": "179613.2",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "GRJ90",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

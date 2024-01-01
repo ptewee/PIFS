@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "LENOVO",
-  "MODEL": "IdeaTabA1000L-F",
-  "BRAND": "Lenovo",
-  "PRODUCT": "IdeaTab_A1000L-F",
-  "DEVICE": "A1000LF",
-  "RELEASE": "4.1.2",
-  "RELEASE_OR_CODENAME": "4.1.2",
-  "ID": "JZO54K",
-  "INCREMENTAL": "IdeaTab_A1000LF_A412_01_S15",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Lenovo/IdeaTab_A1000L-F/A1000LF:4.1.2/JZO54K/A1000LF_A412_01_15_130928:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 16,
-  "*.build.id": "JZO54K",
-  "*.security_patch": "",
-  "*.build.version.sdk": "16"
+  // Build Fields
+    "MANUFACTURER": "LENOVO",
+    "MODEL": "IdeaTabA1000L-F",
+    "FINGERPRINT": "Lenovo/IdeaTab_A1000L-F/A1000LF:4.1.2/JZO54K/A1000LF_A412_01_15_130928:user/release-keys",
+    "BRAND": "Lenovo",
+    "PRODUCT": "IdeaTab_A1000L-F",
+    "DEVICE": "A1000LF",
+    "RELEASE": "4.1.2",
+    "ID": "JZO54K",
+    "INCREMENTAL": "IdeaTab_A1000LF_A412_01_S15",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JZO54K",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
