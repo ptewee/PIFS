@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "American Megatrends Inc.",
-  "MODEL": "DuOS",
-  "BRAND": "AMI",
-  "PRODUCT": "duos_native_cbuf",
-  "DEVICE": "native_cbuf",
-  "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
-  "ID": "JDQ39",
-  "INCREMENTAL": "AMERICANMEGATRENDS-1.0.18.10342",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "AMI/duos_native_cbuf/native_cbuf:4.2.2/JDQ39/AMERICANMEGATRENDS:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JDQ39",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "American Megatrends Inc.",
+    "MODEL": "DuOS",
+    "FINGERPRINT": "AMI/duos_native_cbuf/native_cbuf:4.2.2/JDQ39/AMERICANMEGATRENDS:user/release-keys",
+    "BRAND": "AMI",
+    "PRODUCT": "duos_native_cbuf",
+    "DEVICE": "native_cbuf",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "AMERICANMEGATRENDS-1.0.18.10342",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

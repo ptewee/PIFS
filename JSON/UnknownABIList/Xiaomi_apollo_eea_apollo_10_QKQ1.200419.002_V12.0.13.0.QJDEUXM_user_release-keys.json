@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Xiaomi",
-  "MODEL": "M2007J3SY",
-  "BRAND": "Xiaomi",
-  "PRODUCT": "apollo_eea",
-  "DEVICE": "apollo",
-  "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
-  "ID": "QKQ1.200419.002",
-  "INCREMENTAL": "V12.0.13.0.QJDEUXM",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Xiaomi/apollo_eea/apollo:10/QKQ1.200419.002/V12.0.13.0.QJDEUXM:user/release-keys",
-  "SECURITY_PATCH": "2020-11-01",
-  "DEVICE_INITIAL_SDK_INT": 29,
-  "SDK_INT": 29,
-  "*.build.id": "QKQ1.200419.002",
-  "*.security_patch": "2020-11-01",
-  "*.build.version.sdk": "29"
+  // Build Fields
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "M2007J3SY",
+    "FINGERPRINT": "Xiaomi/apollo_eea/apollo:10/QKQ1.200419.002/V12.0.13.0.QJDEUXM:user/release-keys",
+    "BRAND": "Xiaomi",
+    "PRODUCT": "apollo_eea",
+    "DEVICE": "apollo",
+    "RELEASE": "10",
+    "ID": "QKQ1.200419.002",
+    "INCREMENTAL": "V12.0.13.0.QJDEUXM",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2020-11-01",
+    "DEVICE_INITIAL_SDK_INT": "29",
+
+  // System Properties
+    "*.build.id": "QKQ1.200419.002",
+    "*.security_patch": "2020-11-01",
+    "*api_level": "29"
 }
