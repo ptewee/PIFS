@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "oplus",
-  "MODEL": "ossi",
-  "BRAND": "oplus",
-  "PRODUCT": "ossi",
-  "DEVICE": "ossi",
-  "RELEASE": "12",
-  "RELEASE_OR_CODENAME": "12",
-  "ID": "SKQ1.211019.001",
-  "INCREMENTAL": "1663073652574",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "oplus/ossi/ossi:12/SKQ1.211019.001/1663073652574:user/release-keys",
-  "SECURITY_PATCH": "2022-09-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 31,
-  "*.build.id": "SKQ1.211019.001",
-  "*.security_patch": "2022-09-05",
-  "*.build.version.sdk": "31"
+  // Build Fields
+    "MANUFACTURER": "oplus",
+    "MODEL": "ossi",
+    "FINGERPRINT": "oplus/ossi/ossi:12/SKQ1.211019.001/1663073652574:user/release-keys",
+    "BRAND": "oplus",
+    "PRODUCT": "ossi",
+    "DEVICE": "ossi",
+    "RELEASE": "12",
+    "ID": "SKQ1.211019.001",
+    "INCREMENTAL": "1663073652574",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2022-09-05",
+    "DEVICE_INITIAL_SDK_INT": "30",
+
+  // System Properties
+    "*.build.id": "SKQ1.211019.001",
+    "*.security_patch": "2022-09-05",
+    "*api_level": "30"
 }

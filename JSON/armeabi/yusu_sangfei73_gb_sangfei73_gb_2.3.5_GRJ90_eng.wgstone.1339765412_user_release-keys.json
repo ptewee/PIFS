@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Philips",
-  "MODEL": "W626",
-  "BRAND": "yusu",
-  "PRODUCT": "sangfei73_gb",
-  "DEVICE": "sangfei73_gb",
-  "RELEASE": "2.3.5",
-  "RELEASE_OR_CODENAME": "2.3.5",
-  "ID": "GRJ90",
-  "INCREMENTAL": "eng.wgstone.1339765412",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "yusu/sangfei73_gb/sangfei73_gb:2.3.5/GRJ90/eng.wgstone.1339765412:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
-  "*.build.id": "GRJ90",
-  "*.security_patch": "",
-  "*.build.version.sdk": "10"
+  // Build Fields
+    "MANUFACTURER": "Philips",
+    "MODEL": "W626",
+    "FINGERPRINT": "yusu/sangfei73_gb/sangfei73_gb:2.3.5/GRJ90/eng.wgstone.1339765412:user/release-keys",
+    "BRAND": "yusu",
+    "PRODUCT": "sangfei73_gb",
+    "DEVICE": "sangfei73_gb",
+    "RELEASE": "2.3.5",
+    "ID": "GRJ90",
+    "INCREMENTAL": "eng.wgstone.1339765412",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "GRJ90",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

@@ -1,20 +1,22 @@
 {
-  "MANUFACTURER": "QUALCOMM",
-  "MODEL": "missi_foldable_cn system image for arm64",
-  "BRAND": "qti",
-  "PRODUCT": "missi_foldable_cn",
-  "DEVICE": "missi",
-  "RELEASE": "13",
-  "RELEASE_OR_CODENAME": "13",
-  "ID": "TKQ1.220829.002",
-  "INCREMENTAL": "V14.0.22.12.12.DEV",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "qti/missi_foldable_cn/missi:13/TKQ1.220829.002/V14.0.22.12.12.DEV:user/release-keys",
-  "SECURITY_PATCH": "2022-12-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 33,
-  "*.build.id": "TKQ1.220829.002",
-  "*.security_patch": "2022-12-01",
-  "*.build.version.sdk": "33"
+  // Build Fields
+    "MANUFACTURER": "QUALCOMM",
+    "MODEL": "missi_foldable_cn system image for arm64",
+    "FINGERPRINT": "qti/missi_foldable_cn/missi:13/TKQ1.220829.002/V14.0.22.12.12.DEV:user/release-keys",
+    "BRAND": "qti",
+    "PRODUCT": "missi_foldable_cn",
+    "DEVICE": "missi",
+    "RELEASE": "13",
+    "ID": "TKQ1.220829.002",
+    "INCREMENTAL": "V14.0.22.12.12.DEV",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2022-12-01",
+    "DEVICE_INITIAL_SDK_INT": "31",
+
+  // System Properties
+    "*.build.id": "TKQ1.220829.002",
+    "*.security_patch": "2022-12-01",
+    "*.vndk_version": "31",
+    "*api_level": "31"
 }

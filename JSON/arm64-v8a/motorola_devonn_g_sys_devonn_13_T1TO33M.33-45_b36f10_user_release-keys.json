@@ -1,20 +1,22 @@
 {
-  "MANUFACTURER": "motorola",
-  "MODEL": "moto g power 5G - 2023",
-  "BRAND": "motorola",
-  "PRODUCT": "devonn_g_sys",
-  "DEVICE": "devonn",
-  "RELEASE": "13",
-  "RELEASE_OR_CODENAME": "13",
-  "ID": "T1TO33M.33-45",
-  "INCREMENTAL": "b36f10",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "motorola/devonn_g_sys/devonn:13/T1TO33M.33-45/b36f10:user/release-keys",
-  "SECURITY_PATCH": "2023-02-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 33,
-  "*.build.id": "T1TO33M.33-45",
-  "*.security_patch": "2023-02-01",
-  "*.build.version.sdk": "33"
+  // Build Fields
+    "MANUFACTURER": "motorola",
+    "MODEL": "moto g power 5G - 2023",
+    "FINGERPRINT": "motorola/devonn_g_sys/devonn:13/T1TO33M.33-45/b36f10:user/release-keys",
+    "BRAND": "motorola",
+    "PRODUCT": "devonn_g_sys",
+    "DEVICE": "devonn",
+    "RELEASE": "13",
+    "ID": "T1TO33M.33-45",
+    "INCREMENTAL": "b36f10",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2023-02-01",
+    "DEVICE_INITIAL_SDK_INT": "33",
+
+  // System Properties
+    "*.build.id": "T1TO33M.33-45",
+    "*.security_patch": "2023-02-01",
+    "*.vndk_version": "31",
+    "*api_level": "33"
 }
