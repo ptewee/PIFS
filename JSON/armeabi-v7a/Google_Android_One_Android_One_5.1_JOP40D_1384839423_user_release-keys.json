@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Google",
-  "MODEL": "Android One",
-  "BRAND": "Google",
-  "PRODUCT": "LimpungDevRom",
-  "DEVICE": "alps",
-  "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
-  "ID": "JOP40D",
-  "INCREMENTAL": "166",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "Google/Android One/Android One:5.1/JOP40D/1384839423:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JOP40D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "Google",
+    "MODEL": "Android One",
+    "FINGERPRINT": "Google/Android One/Android One:5.1/JOP40D/1384839423:user/release-keys",
+    "BRAND": "Google",
+    "PRODUCT": "LimpungDevRom",
+    "DEVICE": "alps",
+    "RELEASE": "5.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "166",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

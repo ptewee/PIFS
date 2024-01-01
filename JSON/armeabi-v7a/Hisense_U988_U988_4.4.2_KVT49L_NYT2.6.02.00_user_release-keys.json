@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Hisense",
-  "MODEL": "HS-U988",
-  "BRAND": "Hisense",
-  "PRODUCT": "U988",
-  "DEVICE": "U988",
-  "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
-  "ID": "KVT49L",
-  "INCREMENTAL": "NYT2.6.02.00",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Hisense/U988/U988:4.4.2/KVT49L/NYT2.6.02.00:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
-  "*.build.id": "KVT49L",
-  "*.security_patch": "",
-  "*.build.version.sdk": "19"
+  // Build Fields
+    "MANUFACTURER": "Hisense",
+    "MODEL": "HS-U988",
+    "FINGERPRINT": "Hisense/U988/U988:4.4.2/KVT49L/NYT2.6.02.00:user/release-keys",
+    "BRAND": "Hisense",
+    "PRODUCT": "U988",
+    "DEVICE": "U988",
+    "RELEASE": "4.4.2",
+    "ID": "KVT49L",
+    "INCREMENTAL": "NYT2.6.02.00",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KVT49L",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

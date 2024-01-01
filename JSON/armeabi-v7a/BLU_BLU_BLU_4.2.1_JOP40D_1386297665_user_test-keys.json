@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "BLU",
-  "MODEL": "LIFE PURE MINI",
-  "BRAND": "BLU",
-  "PRODUCT": "BLU",
-  "DEVICE": "BLU",
-  "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
-  "ID": "JOP40D",
-  "INCREMENTAL": "eng.znsj_bianyi5.1386297665",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "BLU/BLU/BLU:4.2.1/JOP40D/1386297665:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JOP40D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "BLU",
+    "MODEL": "LIFE PURE MINI",
+    "FINGERPRINT": "BLU/BLU/BLU:4.2.1/JOP40D/1386297665:user/test-keys",
+    "BRAND": "BLU",
+    "PRODUCT": "BLU",
+    "DEVICE": "BLU",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "eng.znsj_bianyi5.1386297665",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
