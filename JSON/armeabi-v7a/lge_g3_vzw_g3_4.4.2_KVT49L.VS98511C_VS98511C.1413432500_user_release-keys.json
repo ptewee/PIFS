@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "LGE",
-  "MODEL": "VS985 4G",
-  "BRAND": "lge",
-  "PRODUCT": "g3_vzw",
-  "DEVICE": "g3",
-  "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
-  "ID": "KVT49L.VS98511C",
-  "INCREMENTAL": "VS98511C.1413432500",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "lge/g3_vzw/g3:4.4.2/KVT49L.VS98511C/VS98511C.1413432500:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
-  "*.build.id": "KVT49L.VS98511C",
-  "*.security_patch": "",
-  "*.build.version.sdk": "19"
+  // Build Fields
+    "MANUFACTURER": "LGE",
+    "MODEL": "VS985 4G",
+    "FINGERPRINT": "lge/g3_vzw/g3:4.4.2/KVT49L.VS98511C/VS98511C.1413432500:user/release-keys",
+    "BRAND": "lge",
+    "PRODUCT": "g3_vzw",
+    "DEVICE": "g3",
+    "RELEASE": "4.4.2",
+    "ID": "KVT49L.VS98511C",
+    "INCREMENTAL": "VS98511C.1413432500",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KVT49L.VS98511C",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

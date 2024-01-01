@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "mizo",
-  "MODEL": "N9100",
-  "BRAND": "MIZO",
-  "PRODUCT": "mizo",
-  "DEVICE": "mizo",
-  "RELEASE": "5.0.0",
-  "RELEASE_OR_CODENAME": "5.0.0",
-  "ID": "KOT49H",
-  "INCREMENTAL": "eng.root.1421903077",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "MIZO/mizo/mizo:5.0.0/KOT49H/1421903077:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
-  "*.build.id": "KOT49H",
-  "*.security_patch": "",
-  "*.build.version.sdk": "19"
+  // Build Fields
+    "MANUFACTURER": "mizo",
+    "MODEL": "N9100",
+    "FINGERPRINT": "MIZO/mizo/mizo:5.0.0/KOT49H/1421903077:user/test-keys",
+    "BRAND": "MIZO",
+    "PRODUCT": "mizo",
+    "DEVICE": "mizo",
+    "RELEASE": "5.0.0",
+    "ID": "KOT49H",
+    "INCREMENTAL": "eng.root.1421903077",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
