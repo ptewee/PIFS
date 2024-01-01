@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "alps",
-  "MODEL": "SM-G900F",
-  "BRAND": "samsung",
-  "PRODUCT": "Android",
-  "DEVICE": "Android",
-  "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
-  "ID": "KOT49H",
-  "INCREMENTAL": "eng.cs.1488970436",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "alps/hexing71_et_lca/hexing71_et_lca:4.2.2/KOT49H/1488970436:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "KOT49H",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "SM-G900F",
+    "FINGERPRINT": "alps/hexing71_et_lca/hexing71_et_lca:4.2.2/KOT49H/1488970436:user/test-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "Android",
+    "DEVICE": "Android",
+    "RELEASE": "4.2.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "eng.cs.1488970436",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

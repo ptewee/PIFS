@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "alps",
-  "MODEL": "N9000",
-  "BRAND": "alps",
-  "PRODUCT": "09_v89_jbaol1",
-  "DEVICE": "09_v89_jbaol1",
-  "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
-  "ID": "JOP40D",
-  "INCREMENTAL": "eng.root.1382689211",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "alps/09_v89_jbaol1/09_v89_jbaol1:4.2.1/JOP40D/1382689211:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JOP40D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "N9000",
+    "FINGERPRINT": "alps/09_v89_jbaol1/09_v89_jbaol1:4.2.1/JOP40D/1382689211:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "09_v89_jbaol1",
+    "DEVICE": "09_v89_jbaol1",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "eng.root.1382689211",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Acer",
-  "MODEL": "A500",
-  "BRAND": "acer",
-  "PRODUCT": "full_a500",
-  "DEVICE": "a500",
-  "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
-  "ID": "JDQ39E",
-  "INCREMENTAL": "eng.thor2002ro.20130425.081703",
-  "TYPE": "userdebug",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "acer/a500_ww_gen1/picasso:4.2.2/JDQ39E/1333032611:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JDQ39E",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "Acer",
+    "MODEL": "A500",
+    "FINGERPRINT": "acer/a500_ww_gen1/picasso:4.2.2/JDQ39E/1333032611:user/release-keys",
+    "BRAND": "acer",
+    "PRODUCT": "full_a500",
+    "DEVICE": "a500",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39E",
+    "INCREMENTAL": "eng.thor2002ro.20130425.081703",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39E",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

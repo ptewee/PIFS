@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "alps",
-  "MODEL": "T5",
-  "BRAND": "alps",
-  "PRODUCT": "android_4x_ics2",
-  "DEVICE": "android_4x_ics2",
-  "RELEASE": "4.1.1",
-  "RELEASE_OR_CODENAME": "4.1.1",
-  "ID": "IMM76D",
-  "INCREMENTAL": "eng.linux-server-build0.1348128793",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "alps/android_4x_ics2/android_4x_ics2:4.1.1/IMM76D/1348128793:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 15,
-  "*.build.id": "IMM76D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "15"
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "T5",
+    "FINGERPRINT": "alps/android_4x_ics2/android_4x_ics2:4.1.1/IMM76D/1348128793:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "android_4x_ics2",
+    "DEVICE": "android_4x_ics2",
+    "RELEASE": "4.1.1",
+    "ID": "IMM76D",
+    "INCREMENTAL": "eng.linux-server-build0.1348128793",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "IMM76D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

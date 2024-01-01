@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "alps",
-  "MODEL": "06_v89_jbla768_asx_s4lockscreen",
-  "BRAND": "alps",
-  "PRODUCT": "06_v89_jbla768_asx_s4lockscreen",
-  "DEVICE": "06_v89_jbla768_asx_s4lockscreen",
-  "RELEASE": "4.2.1",
-  "RELEASE_OR_CODENAME": "4.2.1",
-  "ID": "JOP40D",
-  "INCREMENTAL": "eng.root.1370682621",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "alps/06_v89_jbla768_asx_s4lockscreen/06_v89_jbla768_asx_s4lockscreen:4.2.1/JOP40D/1370682621:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JOP40D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "06_v89_jbla768_asx_s4lockscreen",
+    "FINGERPRINT": "alps/06_v89_jbla768_asx_s4lockscreen/06_v89_jbla768_asx_s4lockscreen:4.2.1/JOP40D/1370682621:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "06_v89_jbla768_asx_s4lockscreen",
+    "DEVICE": "06_v89_jbla768_asx_s4lockscreen",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "eng.root.1370682621",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
