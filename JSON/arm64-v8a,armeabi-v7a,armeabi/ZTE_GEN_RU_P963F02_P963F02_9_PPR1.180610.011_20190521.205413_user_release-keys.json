@@ -1,20 +1,22 @@
 {
-  "MANUFACTURER": "ZTE",
-  "MODEL": "ZTE Blade A7 2019RU",
-  "BRAND": "ZTE",
-  "PRODUCT": "GEN_RU_P963F02",
-  "DEVICE": "P963F02",
-  "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
-  "ID": "PPR1.180610.011",
-  "INCREMENTAL": "20190521.205413",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "ZTE/GEN_RU_P963F02/P963F02:9/PPR1.180610.011/20190521.205413:user/release-keys",
-  "SECURITY_PATCH": "2019-04-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 28,
-  "*.build.id": "PPR1.180610.011",
-  "*.security_patch": "2019-04-01",
-  "*.build.version.sdk": "28"
+  // Build Fields
+    "MANUFACTURER": "ZTE",
+    "MODEL": "ZTE Blade A7 2019RU",
+    "FINGERPRINT": "ZTE/GEN_RU_P963F02/P963F02:9/PPR1.180610.011/20190521.205413:user/release-keys",
+    "BRAND": "ZTE",
+    "PRODUCT": "GEN_RU_P963F02",
+    "DEVICE": "P963F02",
+    "RELEASE": "9",
+    "ID": "PPR1.180610.011",
+    "INCREMENTAL": "20190521.205413",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2019-04-01",
+    "DEVICE_INITIAL_SDK_INT": "28",
+
+  // System Properties
+    "*.build.id": "PPR1.180610.011",
+    "*.security_patch": "2019-04-01",
+    "*.vndk_version": "1",
+    "*api_level": "28"
 }

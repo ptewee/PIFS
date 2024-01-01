@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "SM-G920I",
-  "BRAND": "samsung",
-  "PRODUCT": "zerofltedv",
-  "DEVICE": "zeroflte",
-  "RELEASE": "6.0.1",
-  "RELEASE_OR_CODENAME": "6.0.1",
-  "ID": "MMB29K",
-  "INCREMENTAL": "G920IDVU3EPFC",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/zerofltedv/zeroflte:6.0.1/MMB29K/G920IDVU3EPFC:user/release-keys",
-  "SECURITY_PATCH": "2016-06-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
-  "*.build.id": "MMB29K",
-  "*.security_patch": "2016-06-01",
-  "*.build.version.sdk": "23"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-G920I",
+    "FINGERPRINT": "samsung/zerofltedv/zeroflte:6.0.1/MMB29K/G920IDVU3EPFC:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "zerofltedv",
+    "DEVICE": "zeroflte",
+    "RELEASE": "6.0.1",
+    "ID": "MMB29K",
+    "INCREMENTAL": "G920IDVU3EPFC",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2016-06-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MMB29K",
+    "*.security_patch": "2016-06-01",
+    "*api_level": "25"
 }
