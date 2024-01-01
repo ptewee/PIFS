@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "ALCATEL",
+    "MODEL": "A574BL",
+    "FINGERPRINT": "TCL/A574BL/BUZZ6T4GTFUMTS:7.1.1/NMF26F/vG5M:user/release-keys",
+    "BRAND": "TCL",
+    "PRODUCT": "A574BL",
+    "DEVICE": "BUZZ6T4GTFUMTS",
+    "RELEASE": "7.1.1",
+    "ID": "NMF26F",
+    "INCREMENTAL": "vG5M-UTM0",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2018-09-05",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "NMF26F",
+    "*.security_patch": "2018-09-05",
+    "*api_level": "25"
+}

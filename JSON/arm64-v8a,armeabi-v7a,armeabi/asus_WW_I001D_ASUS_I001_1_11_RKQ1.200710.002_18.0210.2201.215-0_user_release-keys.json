@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "asus",
+    "MODEL": "ASUS_I001D",
+    "FINGERPRINT": "asus/WW_I001D/ASUS_I001_1:11/RKQ1.200710.002/18.0210.2201.215-0:user/release-keys",
+    "BRAND": "asus",
+    "PRODUCT": "WW_I001D",
+    "DEVICE": "ASUS_I001_1",
+    "RELEASE": "11",
+    "ID": "RKQ1.200710.002",
+    "INCREMENTAL": "18.0210.2201.215-0",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2022-01-01",
+    "DEVICE_INITIAL_SDK_INT": "28",
+
+  // System Properties
+    "*.build.id": "RKQ1.200710.002",
+    "*.security_patch": "2022-01-01",
+    "*api_level": "28"
+}

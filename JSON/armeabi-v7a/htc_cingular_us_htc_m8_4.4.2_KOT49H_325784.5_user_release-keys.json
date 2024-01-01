@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "HTC",
+    "MODEL": "HTC One_M8",
+    "FINGERPRINT": "htc/cingular_us/htc_m8:4.4.2/KOT49H/325784.5:user/release-keys",
+    "BRAND": "htc",
+    "PRODUCT": "cingular_us",
+    "DEVICE": "htc_m8",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "325784.5",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

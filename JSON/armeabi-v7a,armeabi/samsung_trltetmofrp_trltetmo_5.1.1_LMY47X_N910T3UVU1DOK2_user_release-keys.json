@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-N910T3",
+    "FINGERPRINT": "samsung/trltetmofrp/trltetmo:5.1.1/LMY47X/N910T3UVU1DOK2:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "trltetmofrp",
+    "DEVICE": "trltetmo",
+    "RELEASE": "5.1.1",
+    "ID": "LMY47X",
+    "INCREMENTAL": "N910T3UVU1DOK2",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2015-11-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47X",
+    "*.security_patch": "2015-11-01",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "TCT",
+    "MODEL": "MTC 960",
+    "FINGERPRINT": "TCT/MTC_960_MSRU/MTC_960_gsm:2.3.6/GRK39F/v9FB-0:user/release-keys",
+    "BRAND": "TCT",
+    "PRODUCT": "MTC_960_MSRU",
+    "DEVICE": "MTC_960_gsm",
+    "RELEASE": "2.3.6",
+    "ID": "GRK39F",
+    "INCREMENTAL": "v9FB-0",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "GRK39F",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

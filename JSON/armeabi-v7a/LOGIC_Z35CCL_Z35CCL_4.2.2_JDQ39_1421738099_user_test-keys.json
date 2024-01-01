@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "GFIVE",
+    "MODEL": "LOGIC X1",
+    "FINGERPRINT": "LOGIC/Z35CCL/Z35CCL:4.2.2/JDQ39/1421738099:user/test-keys",
+    "BRAND": "LOGIC",
+    "PRODUCT": "Vandroid",
+    "DEVICE": "Vandroid",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.scm.1421738099",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

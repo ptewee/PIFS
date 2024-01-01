@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "LEMX",
+    "FINGERPRINT": "alps/full_dmn640_36_n1/dmn640_36_n1:7.1.1/N6F26Q/1539046524:user/test-keys",
+    "BRAND": "LEMX",
+    "PRODUCT": "LEMX",
+    "DEVICE": "LEMX",
+    "RELEASE": "7.1.1",
+    "ID": "N6F26Q",
+    "INCREMENTAL": "1539046524",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "2018-05-05",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "N6F26Q",
+    "*.security_patch": "2018-05-05",
+    "*api_level": "25"
+}

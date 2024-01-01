@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "motorola",
+    "MODEL": "XT1580",
+    "FINGERPRINT": "motorola/kinzie_retmx_ds/kinzie_uds:7.0/NPK25.200-12/11:user/release-keys",
+    "BRAND": "motorola",
+    "PRODUCT": "kinzie_retmx_ds",
+    "DEVICE": "kinzie_uds",
+    "RELEASE": "7.0",
+    "ID": "NPK25.200-12",
+    "INCREMENTAL": "11",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2017-04-01",
+    "DEVICE_INITIAL_SDK_INT": "21",
+
+  // System Properties
+    "*.build.id": "NPK25.200-12",
+    "*.security_patch": "2017-04-01",
+    "*api_level": "21"
+}

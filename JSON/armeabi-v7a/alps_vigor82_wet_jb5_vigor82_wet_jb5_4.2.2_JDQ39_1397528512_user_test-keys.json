@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "VOYO",
+    "MODEL": "Q101S 3G",
+    "FINGERPRINT": "alps/vigor82_wet_jb5/vigor82_wet_jb5:4.2.2/JDQ39/1397528512:user/test-keys",
+    "BRAND": "VOYO",
+    "PRODUCT": "Q101S 3G",
+    "DEVICE": "Q101S 3G",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.wss.1397528512",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

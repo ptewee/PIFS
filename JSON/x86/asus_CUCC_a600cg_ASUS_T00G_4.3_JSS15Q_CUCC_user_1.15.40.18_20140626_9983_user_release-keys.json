@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "asus",
+    "MODEL": "ASUS_T00G",
+    "FINGERPRINT": "asus/CUCC_a600cg/ASUS_T00G:4.3/JSS15Q/CUCC_user_1.15.40.18_20140626_9983:user/release-keys",
+    "BRAND": "asus",
+    "PRODUCT": "CUCC_a600cg",
+    "DEVICE": "ASUS_T00G",
+    "RELEASE": "4.3",
+    "ID": "JSS15Q",
+    "INCREMENTAL": "CUCC_a600cg-CUCC_user_1.15.40.18_20140626_9983-user-20140626",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JSS15Q",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

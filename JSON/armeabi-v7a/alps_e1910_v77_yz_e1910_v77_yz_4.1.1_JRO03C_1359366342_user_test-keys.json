@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "e1910_v77_yz",
+    "FINGERPRINT": "alps/e1910_v77_yz/e1910_v77_yz:4.1.1/JRO03C/1359366342:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "e1910_v77_yz",
+    "DEVICE": "e1910_v77_yz",
+    "RELEASE": "4.1.1",
+    "ID": "JRO03C",
+    "INCREMENTAL": "eng.root.1359366342",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JRO03C",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

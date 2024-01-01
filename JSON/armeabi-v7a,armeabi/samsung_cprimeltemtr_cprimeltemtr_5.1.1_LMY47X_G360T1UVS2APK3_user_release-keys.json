@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-G360T1",
+    "FINGERPRINT": "samsung/cprimeltemtr/cprimeltemtr:5.1.1/LMY47X/G360T1UVS2APK3:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "cprimeltemtr",
+    "DEVICE": "cprimeltemtr",
+    "RELEASE": "5.1.1",
+    "ID": "LMY47X",
+    "INCREMENTAL": "G360T1UVS2APK3",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2016-11-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47X",
+    "*.security_patch": "2016-11-01",
+    "*api_level": "25"
+}

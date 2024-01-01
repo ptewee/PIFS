@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Lenovo",
+    "MODEL": "H550",
+    "FINGERPRINT": "alps/yuanda72_wet_a_jb3/yuanda72_wet_a_jb3:4.2.2/JDQ39/1422348271:user/test-keys",
+    "BRAND": "Lenovo",
+    "PRODUCT": "H550",
+    "DEVICE": "Lenovo",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.root.1422348271",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

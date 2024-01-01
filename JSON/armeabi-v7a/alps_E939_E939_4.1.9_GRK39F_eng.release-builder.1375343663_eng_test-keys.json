@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "iphone5",
+    "FINGERPRINT": "alps/E939/E939:4.1.9/GRK39F/eng.release-builder.1375343663:eng/test-keys",
+    "BRAND": "iphone",
+    "PRODUCT": "E939",
+    "DEVICE": "E939",
+    "RELEASE": "4.1.9",
+    "ID": "GRK39F",
+    "INCREMENTAL": "eng.s021.1375343441",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "GRK39F",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

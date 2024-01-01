@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-N910G",
+    "FINGERPRINT": "samsung/trltedt/trlte:5.0.1/LRX22C/N910GDTU1BOD3:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "trltedt",
+    "DEVICE": "trlte",
+    "RELEASE": "5.0.1",
+    "ID": "LRX22C",
+    "INCREMENTAL": "N910GDTU1BOD3",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX22C",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

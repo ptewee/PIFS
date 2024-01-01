@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "K-Touch",
+    "MODEL": "K-Touch W68",
+    "FINGERPRINT": "K-Touch/hawaii_garnet_c_w68/hawaii_garnet_c_w68:4.2.2/W68_21663_5.2.7.1_07/eng.yong.20130514.201540:user/release-keys,x",
+    "BRAND": "K-Touch",
+    "PRODUCT": "hawaii_garnet_c_w68",
+    "DEVICE": "hawaii_garnet_c_w68",
+    "RELEASE": "4.2.2",
+    "ID": "W68_21663_5.2.7.1_07",
+    "INCREMENTAL": "eng.yong.20130514.201540",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "W68_21663_5.2.7.1_07",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

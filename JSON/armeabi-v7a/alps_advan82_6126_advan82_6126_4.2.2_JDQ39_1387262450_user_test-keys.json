@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "ADVAN",
+    "MODEL": "E1C+",
+    "FINGERPRINT": "alps/advan82_6126/advan82_6126:4.2.2/JDQ39/1387262450:user/test-keys",
+    "BRAND": "ADVAN",
+    "PRODUCT": "E1C+",
+    "DEVICE": "Vandroid",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.zk.1387262450",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "asus",
+    "MODEL": "ASUS_X008DC",
+    "FINGERPRINT": "asus/US_Phone/ASUS_X008_1:7.0/NRD90M/US_Phone-14.14.1808.121-20180803:user/release-keys",
+    "BRAND": "asus",
+    "PRODUCT": "US_Phone",
+    "DEVICE": "ASUS_X008_1",
+    "RELEASE": "7.0",
+    "ID": "NRD90M",
+    "INCREMENTAL": "US_Phone-14.14.1808.121-20180803",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2018-07-05",
+    "DEVICE_INITIAL_SDK_INT": "23",
+
+  // System Properties
+    "*.build.id": "NRD90M",
+    "*.security_patch": "2018-07-05",
+    "*api_level": "23"
+}

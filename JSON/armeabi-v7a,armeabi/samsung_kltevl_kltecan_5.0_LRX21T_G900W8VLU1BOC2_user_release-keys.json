@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-G900W8",
+    "FINGERPRINT": "samsung/kltevl/kltecan:5.0/LRX21T/G900W8VLU1BOC2:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "kltevl",
+    "DEVICE": "kltecan",
+    "RELEASE": "5.0",
+    "ID": "LRX21T",
+    "INCREMENTAL": "G900W8VLU1BOC2",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX21T",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

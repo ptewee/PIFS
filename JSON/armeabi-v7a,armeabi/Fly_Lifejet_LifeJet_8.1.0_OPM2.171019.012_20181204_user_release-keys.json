@@ -1,0 +1,22 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Fly",
+    "MODEL": "Life Jet",
+    "FINGERPRINT": "Fly/Lifejet/LifeJet:8.1.0/OPM2.171019.012/20181204:user/release-keys",
+    "BRAND": "Fly",
+    "PRODUCT": "Lifejet",
+    "DEVICE": "LifeJet",
+    "RELEASE": "8.1.0",
+    "ID": "OPM2.171019.012",
+    "INCREMENTAL": "20181204",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2018-12-05",
+    "DEVICE_INITIAL_SDK_INT": "27",
+
+  // System Properties
+    "*.build.id": "OPM2.171019.012",
+    "*.security_patch": "2018-12-05",
+    "*.vndk_version": "1",
+    "*api_level": "27"
+}

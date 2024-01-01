@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "XOLO",
+    "MODEL": "Q900T",
+    "FINGERPRINT": "XOLO/Q900T/Q900T:4.2.2/JDQ39/1395229131:user/release-keys",
+    "BRAND": "XOLO",
+    "PRODUCT": "Q900T",
+    "DEVICE": "Q900T",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.cme.1395229131",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

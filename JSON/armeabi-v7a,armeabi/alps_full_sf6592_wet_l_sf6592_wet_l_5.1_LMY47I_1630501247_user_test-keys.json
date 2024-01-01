@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "Android",
+    "FINGERPRINT": "alps/full_sf6592_wet_l/sf6592_wet_l:5.1/LMY47I/1630501247:user/test-keys",
+    "BRAND": "NERLMIAY",
+    "PRODUCT": "K1001P95",
+    "DEVICE": "K1001P95",
+    "RELEASE": "5.1",
+    "ID": "LMY47I",
+    "INCREMENTAL": "1630501247",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47I",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

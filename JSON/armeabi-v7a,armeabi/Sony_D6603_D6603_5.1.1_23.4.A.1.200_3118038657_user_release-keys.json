@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Sony",
+    "MODEL": "D6603",
+    "FINGERPRINT": "Sony/D6603/D6603:5.1.1/23.4.A.1.200/3118038657:user/release-keys",
+    "BRAND": "Sony",
+    "PRODUCT": "D6603",
+    "DEVICE": "D6603",
+    "RELEASE": "5.1.1",
+    "ID": "23.4.A.1.200",
+    "INCREMENTAL": "3118038657",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "23.4.A.1.200",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

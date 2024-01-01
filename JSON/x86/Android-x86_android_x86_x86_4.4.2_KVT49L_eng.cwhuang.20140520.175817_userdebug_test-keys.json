@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "unknown",
+    "MODEL": "x86",
+    "FINGERPRINT": "Android-x86/android_x86/x86:4.4.2/KVT49L/eng.cwhuang.20140520.175817:userdebug/test-keys",
+    "BRAND": "Android-x86",
+    "PRODUCT": "android_x86",
+    "DEVICE": "x86",
+    "RELEASE": "4.4.2",
+    "ID": "KVT49L",
+    "INCREMENTAL": "eng.cwhuang.20140520.175817",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KVT49L",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

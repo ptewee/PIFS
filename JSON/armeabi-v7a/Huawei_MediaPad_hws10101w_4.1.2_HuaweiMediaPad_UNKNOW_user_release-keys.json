@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "HUAWEI",
+    "MODEL": "MediaPad 10 FHD",
+    "FINGERPRINT": "Huawei/MediaPad/hws10101w:4.1.2/HuaweiMediaPad/UNKNOW:user/release-keys",
+    "BRAND": "Huawei",
+    "PRODUCT": "MediaPad",
+    "DEVICE": "hws10101w",
+    "RELEASE": "4.1.2",
+    "ID": "HuaweiMediaPad",
+    "INCREMENTAL": "UNKNOW",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "HuaweiMediaPad",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

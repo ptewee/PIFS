@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "yusu",
+    "MODEL": "One X",
+    "FINGERPRINT": "yusu/e615/e615:2.3.6/GRK39F/eng.wangfei.20120803.165044:user/test-keys",
+    "BRAND": "yusu",
+    "PRODUCT": "e615",
+    "DEVICE": "e615",
+    "RELEASE": "2.3.6",
+    "ID": "GRK39F",
+    "INCREMENTAL": "eng.wangfei.20120803.165044",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "GRK39F",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

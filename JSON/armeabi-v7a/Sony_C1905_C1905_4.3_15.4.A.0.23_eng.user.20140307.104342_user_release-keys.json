@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Sony",
+    "MODEL": "C1905",
+    "FINGERPRINT": "Sony/C1905/C1905:4.3/15.4.A.0.23/eng.user.20140307.104342:user/release-keys",
+    "BRAND": "Sony",
+    "PRODUCT": "C1905",
+    "DEVICE": "nicki",
+    "RELEASE": "4.3",
+    "ID": "KTU84P",
+    "INCREMENTAL": "a50db22529",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KTU84P",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

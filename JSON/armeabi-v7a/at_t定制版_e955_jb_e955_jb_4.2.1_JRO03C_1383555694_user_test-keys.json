@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "moztek",
+    "MODEL": "出口定制版",
+    "FINGERPRINT": "at&t定制版/e955_jb/e955_jb:4.2.1/JRO03C/1383555694:user/test-keys",
+    "BRAND": "at&t定制版",
+    "PRODUCT": "e955_jb",
+    "DEVICE": "e955_jb",
+    "RELEASE": "4.2.1",
+    "ID": "JRO03C",
+    "INCREMENTAL": "eng.s043.1383555694",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JRO03C",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

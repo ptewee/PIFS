@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Allwinner",
+    "MODEL": "HL-1088A3",
+    "FINGERPRINT": "Allwinner/astar_ya1004a/astar-ya1004a:6.0.1/MOB30R/20181128:user/test-keys",
+    "BRAND": "Allwinner",
+    "PRODUCT": "HL-1088A3",
+    "DEVICE": "HL-1088A3",
+    "RELEASE": "6.0.1",
+    "ID": "MOB30R",
+    "INCREMENTAL": "20181128",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "2016-07-05",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MOB30R",
+    "*.security_patch": "2016-07-05",
+    "*api_level": "25"
+}

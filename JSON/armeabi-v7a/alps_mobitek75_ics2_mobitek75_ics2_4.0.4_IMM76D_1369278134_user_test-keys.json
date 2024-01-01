@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "GT-I9500",
+    "MODEL": "GT-I9500",
+    "FINGERPRINT": "alps/mobitek75_ics2/mobitek75_ics2:4.0.4/IMM76D/1369278134:user/test-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "GT-I9500",
+    "DEVICE": "GT-I9505",
+    "RELEASE": "4.0.4",
+    "ID": "IMM76D",
+    "INCREMENTAL": "eng.root.1369278134",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "IMM76D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

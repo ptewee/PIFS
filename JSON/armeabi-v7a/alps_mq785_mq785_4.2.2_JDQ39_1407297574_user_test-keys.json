@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "Vega 782",
+    "FINGERPRINT": "alps/mq785/mq785:4.2.2/JDQ39/1407297574:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "mq785",
+    "DEVICE": "mq785",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.root.20140806",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

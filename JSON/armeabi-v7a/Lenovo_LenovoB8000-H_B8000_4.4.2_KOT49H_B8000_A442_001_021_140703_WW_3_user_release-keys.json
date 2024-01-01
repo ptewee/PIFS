@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "LENOVO",
+    "MODEL": "Lenovo B8000-H",
+    "FINGERPRINT": "Lenovo/LenovoB8000-H/B8000:4.4.2/KOT49H/B8000_A442_001_021_140703_WW_3:user/release-keys",
+    "BRAND": "Lenovo",
+    "PRODUCT": "LenovoB8000-H",
+    "DEVICE": "B8000",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "B8000_A442_001_021_140703_WW_3GDATA",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

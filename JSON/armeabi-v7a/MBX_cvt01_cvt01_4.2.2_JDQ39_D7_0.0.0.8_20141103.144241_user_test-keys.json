@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "CVTE",
+    "MODEL": "D7X",
+    "FINGERPRINT": "MBX/cvt01/cvt01:4.2.2/JDQ39/D7_0.0.0.8_20141103.144241:user/test-keys",
+    "BRAND": "MBX",
+    "PRODUCT": "cvt01",
+    "DEVICE": "cvt01",
+    "RELEASE": "4.2.2",
+    "ID": "D7_0.0.0.8_20141103.144241",
+    "INCREMENTAL": "D7_0.0.0.8_20141103.144241",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "D7_0.0.0.8_20141103.144241",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

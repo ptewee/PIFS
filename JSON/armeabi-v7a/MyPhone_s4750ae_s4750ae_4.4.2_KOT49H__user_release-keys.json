@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "MyPhone",
+    "MODEL": "MyPhone Infinity Lite",
+    "FINGERPRINT": "MyPhone/s4750ae/s4750ae:4.4.2/KOT49H/:user/release-keys",
+    "BRAND": "MyPhone",
+    "PRODUCT": "MyPhone_Infinity_Lite",
+    "DEVICE": "MyPhone_Infinity_Lite",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "30",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

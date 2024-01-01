@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Positivo",
+    "MODEL": "Positivo Ypy L700+ Kids",
+    "FINGERPRINT": "positivo/YPY_L700PLUSK/YPY_L700:4.1.1/JRO03H/USPI2013111801:user/release-keys",
+    "BRAND": "positivo",
+    "PRODUCT": "YPY_L700PLUSK",
+    "DEVICE": "YPY_L700",
+    "RELEASE": "4.1.1",
+    "ID": "JRO03H",
+    "INCREMENTAL": "USPI2013111801",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JRO03H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

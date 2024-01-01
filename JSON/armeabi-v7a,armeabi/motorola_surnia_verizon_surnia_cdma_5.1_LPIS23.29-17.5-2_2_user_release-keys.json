@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "motorola",
+    "MODEL": "XT1528",
+    "FINGERPRINT": "motorola/surnia_verizon/surnia_cdma:5.1/LPIS23.29-17.5-2/2:user/release-keys",
+    "BRAND": "motorola",
+    "PRODUCT": "surnia_verizon",
+    "DEVICE": "surnia_cdma",
+    "RELEASE": "5.1",
+    "ID": "LPIS23.29-17.5-2",
+    "INCREMENTAL": "2",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2016-04-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LPIS23.29-17.5-2",
+    "*.security_patch": "2016-04-01",
+    "*api_level": "25"
+}

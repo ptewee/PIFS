@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "Nexus 7",
+    "FINGERPRINT": "samsung/YP-GS1/YP-GS1:2.3.6/GINGERBREAD/XXLD1:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "YP-GS1",
+    "DEVICE": "grouper",
+    "RELEASE": "2.3.6",
+    "ID": "GINGERBREAD",
+    "INCREMENTAL": "XXLD1",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "GINGERBREAD",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

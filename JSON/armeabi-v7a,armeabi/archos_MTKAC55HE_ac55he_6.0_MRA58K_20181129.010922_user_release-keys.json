@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Archos",
+    "MODEL": "Archos 55 Helium",
+    "FINGERPRINT": "archos/MTKAC55HE/ac55he:6.0/MRA58K/20181129.010922:user/release-keys",
+    "BRAND": "archos",
+    "PRODUCT": "MTKAC55HE",
+    "DEVICE": "ac55he",
+    "RELEASE": "6.0",
+    "ID": "MRA58K",
+    "INCREMENTAL": "20181129.010922",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2018-08-05",
+    "DEVICE_INITIAL_SDK_INT": "23",
+
+  // System Properties
+    "*.build.id": "MRA58K",
+    "*.security_patch": "2018-08-05",
+    "*api_level": "23"
+}

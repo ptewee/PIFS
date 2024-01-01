@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "EVERCOSS A74A",
+    "MODEL": "A74A",
+    "FINGERPRINT": "EVERCOSS_A74A/v130_trx_2b2/v130_trx_2b2:5.1/LMY47D/root08212159:user/release-keys",
+    "BRAND": "EVERCOSS A74A",
+    "PRODUCT": "v130_trx_2b2",
+    "DEVICE": "v130_trx_2b2",
+    "RELEASE": "5.1",
+    "ID": "LMY47D",
+    "INCREMENTAL": "eng.root.20150821.215658",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

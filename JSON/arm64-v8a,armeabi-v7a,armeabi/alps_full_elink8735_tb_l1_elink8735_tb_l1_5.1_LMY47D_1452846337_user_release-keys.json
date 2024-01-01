@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "LT60",
+    "FINGERPRINT": "alps/full_elink8735_tb_l1/elink8735_tb_l1:5.1/LMY47D/1452846337:user/release-keys",
+    "BRAND": "alps",
+    "PRODUCT": "LT60",
+    "DEVICE": "elink8735_tb_l1",
+    "RELEASE": "5.1",
+    "ID": "LMY47D",
+    "INCREMENTAL": "1452846337",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2015-11-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47D",
+    "*.security_patch": "2015-11-01",
+    "*api_level": "25"
+}

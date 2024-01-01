@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Sony",
+    "MODEL": "LT25i",
+    "FINGERPRINT": "Sony/LT25i_1268-5987/LT25i:4.1.2/9.1.A.1.145/bvt_tw:user/release-keys",
+    "BRAND": "Sony",
+    "PRODUCT": "LT25i_1268-5987",
+    "DEVICE": "LT25i",
+    "RELEASE": "4.1.2",
+    "ID": "9.1.A.1.145",
+    "INCREMENTAL": "bvt_tw",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "9.1.A.1.145",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

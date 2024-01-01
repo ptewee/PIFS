@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "motorola",
+    "MODEL": "moto g(9) plus",
+    "FINGERPRINT": "motorola/odessa_retail/odessa:11/RPAS31.Q2-59-17-4-5-5/af8e3:user/release-keys",
+    "BRAND": "motorola",
+    "PRODUCT": "odessa_retail",
+    "DEVICE": "odessa",
+    "RELEASE": "11",
+    "ID": "RPAS31.Q2-59-17-4-5-5",
+    "INCREMENTAL": "af8e3",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2022-09-01",
+    "DEVICE_INITIAL_SDK_INT": "29",
+
+  // System Properties
+    "*.build.id": "RPAS31.Q2-59-17-4-5-5",
+    "*.security_patch": "2022-09-01",
+    "*api_level": "29"
+}

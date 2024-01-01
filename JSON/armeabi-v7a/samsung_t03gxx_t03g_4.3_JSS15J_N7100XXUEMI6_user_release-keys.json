@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "GT-N7100",
+    "FINGERPRINT": "samsung/t03gxx/t03g:4.3/JSS15J/N7100XXUEMI6:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "t03gxx",
+    "DEVICE": "t03g",
+    "RELEASE": "4.3",
+    "ID": "JSS15J",
+    "INCREMENTAL": "N7100XXUEMI6",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JSS15J",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Micromax",
+    "MODEL": "Micromax A108",
+    "FINGERPRINT": "Micromax/A108/A108:4.4.2/KOT49H/1402642027:user/release-keys",
+    "BRAND": "Micromax",
+    "PRODUCT": "A108",
+    "DEVICE": "A108",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "eng.zhangzhao.1404476274",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

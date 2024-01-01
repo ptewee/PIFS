@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "HTC",
+    "MODEL": "HTC Flyer",
+    "FINGERPRINT": "videotron_ca/htc_flyer/flyer:2.3.4/GRJ22/106850.3:user/release-keys",
+    "BRAND": "videotron_ca",
+    "PRODUCT": "htc_flyer",
+    "DEVICE": "flyer",
+    "RELEASE": "2.3.4",
+    "ID": "GRJ22",
+    "INCREMENTAL": "106850.3",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "GRJ22",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

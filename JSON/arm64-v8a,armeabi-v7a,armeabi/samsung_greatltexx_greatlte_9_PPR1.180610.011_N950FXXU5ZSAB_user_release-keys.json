@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-N950F",
+    "FINGERPRINT": "samsung/greatltexx/greatlte:9/PPR1.180610.011/N950FXXU5ZSAB:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "greatltexx",
+    "DEVICE": "greatlte",
+    "RELEASE": "9",
+    "ID": "PPR1.180610.011",
+    "INCREMENTAL": "N950FXXU5ZSAB",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2019-01-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "PPR1.180610.011",
+    "*.security_patch": "2019-01-01",
+    "*api_level": "25"
+}

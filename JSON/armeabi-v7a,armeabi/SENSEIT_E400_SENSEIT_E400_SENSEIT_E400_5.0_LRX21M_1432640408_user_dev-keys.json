@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "SENSEIT",
+    "MODEL": "SENSEIT E400",
+    "FINGERPRINT": "SENSEIT_E400/SENSEIT_E400/SENSEIT_E400:5.0/LRX21M/1432640408:user/dev-keys",
+    "BRAND": "SENSEIT_E400",
+    "PRODUCT": "SENSEIT_E400",
+    "DEVICE": "SENSEIT_E400",
+    "RELEASE": "5.0",
+    "ID": "LRX21M",
+    "INCREMENTAL": "1445597735",
+    "TYPE": "user",
+    "TAGS": "dev-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX21M",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

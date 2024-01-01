@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "NVIDIA",
+    "MODEL": "SHIELD Tablet",
+    "FINGERPRINT": "nvidia/wx_na_wf/shieldtablet:5.1.1/LMY48C/36442_589.1541:user/release-keys",
+    "BRAND": "nvidia",
+    "PRODUCT": "wx_na_wf",
+    "DEVICE": "shieldtablet",
+    "RELEASE": "5.1.1",
+    "ID": "LMY48C",
+    "INCREMENTAL": "36442_589.1541",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY48C",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "canplay Semiconductor, Inc.",
+    "MODEL": "Full AOSP on MStar Cedric3",
+    "FINGERPRINT": "CanPlay/Lemon/Lemon:4.1.1/JRO03C/eng..20141219.232722:userdebug/test-keys",
+    "BRAND": "CanPlay",
+    "PRODUCT": "Lemon",
+    "DEVICE": "Lemon",
+    "RELEASE": "4.1.1",
+    "ID": "JRO03C",
+    "INCREMENTAL": "eng..20141219.232722",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JRO03C",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

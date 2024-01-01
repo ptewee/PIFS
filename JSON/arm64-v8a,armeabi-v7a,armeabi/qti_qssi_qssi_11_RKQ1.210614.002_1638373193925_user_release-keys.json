@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "QUALCOMM",
+    "MODEL": "qssi system image for arm64",
+    "FINGERPRINT": "qti/qssi/qssi:11/RKQ1.210614.002/1638373193925:user/release-keys",
+    "BRAND": "qti",
+    "PRODUCT": "qssi",
+    "DEVICE": "qssi",
+    "RELEASE": "11",
+    "ID": "RKQ1.210614.002",
+    "INCREMENTAL": "1638373193925",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2021-11-05",
+    "DEVICE_INITIAL_SDK_INT": "30",
+
+  // System Properties
+    "*.build.id": "RKQ1.210614.002",
+    "*.security_patch": "2021-11-05",
+    "*api_level": "30"
+}

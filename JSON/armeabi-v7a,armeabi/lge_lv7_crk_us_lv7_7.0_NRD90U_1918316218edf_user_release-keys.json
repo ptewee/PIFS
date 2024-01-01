@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "LGE",
+    "MODEL": "LG-M327",
+    "FINGERPRINT": "lge/lv7_crk_us/lv7:7.0/NRD90U/1918316218edf:user/release-keys",
+    "BRAND": "lge",
+    "PRODUCT": "lv7_crk_us",
+    "DEVICE": "lv7",
+    "RELEASE": "7.0",
+    "ID": "NRD90U",
+    "INCREMENTAL": "1918316218edf",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2019-07-01",
+    "DEVICE_INITIAL_SDK_INT": "24",
+
+  // System Properties
+    "*.build.id": "NRD90U",
+    "*.security_patch": "2019-07-01",
+    "*api_level": "24"
+}

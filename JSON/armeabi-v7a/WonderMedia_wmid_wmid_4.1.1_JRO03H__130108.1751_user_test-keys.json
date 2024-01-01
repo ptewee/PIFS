@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "WonderMedia",
+    "MODEL": "wmid",
+    "FINGERPRINT": "WonderMedia/wmid/wmid:4.1.1/JRO03H/_130108.1751:user/test-keys",
+    "BRAND": "WonderMedia",
+    "PRODUCT": "wmid",
+    "DEVICE": "wmid",
+    "RELEASE": "4.1.1",
+    "ID": "JRO03H",
+    "INCREMENTAL": "_130108.1751",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JRO03H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

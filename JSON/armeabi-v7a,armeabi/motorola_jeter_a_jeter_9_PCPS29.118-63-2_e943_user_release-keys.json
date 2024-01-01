@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "motorola",
+    "MODEL": "moto g(6) play",
+    "FINGERPRINT": "motorola/jeter_a/jeter:9/PCPS29.118-63-2/e943:user/release-keys",
+    "BRAND": "motorola",
+    "PRODUCT": "jeter_a",
+    "DEVICE": "jeter",
+    "RELEASE": "9",
+    "ID": "PCPS29.118-63-2",
+    "INCREMENTAL": "e943",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2019-10-01",
+    "DEVICE_INITIAL_SDK_INT": "26",
+
+  // System Properties
+    "*.build.id": "PCPS29.118-63-2",
+    "*.security_patch": "2019-10-01",
+    "*api_level": "26"
+}

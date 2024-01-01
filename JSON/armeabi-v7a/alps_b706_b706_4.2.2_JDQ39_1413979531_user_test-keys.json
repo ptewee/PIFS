@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "b706",
+    "FINGERPRINT": "alps/b706/b706:4.2.2/JDQ39/1413979531:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "b706",
+    "DEVICE": "b706",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.nxf.1413979531",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

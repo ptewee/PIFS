@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "SHARP",
+    "MODEL": "LCD-S3A-01",
+    "FINGERPRINT": "SHARP/lcd_s3a01/lcd_s3a01:4.3/JLS36G/v1.25T3:user/release-keys",
+    "BRAND": "SHARP",
+    "PRODUCT": "lcd_s3a01",
+    "DEVICE": "lcd_s3a01",
+    "RELEASE": "4.3",
+    "ID": "JLS36G",
+    "INCREMENTAL": "v1.25T3",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JLS36G",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

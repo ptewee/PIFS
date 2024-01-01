@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "4G",
+    "FINGERPRINT": "alps/yuanda72_wet_a_jb3/yuanda72_wet_a_jb3:4.2.2/JDQ39/1407202696:user/test-keys",
+    "BRAND": "4G",
+    "PRODUCT": "4G",
+    "DEVICE": "4G",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.root.1407202696",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

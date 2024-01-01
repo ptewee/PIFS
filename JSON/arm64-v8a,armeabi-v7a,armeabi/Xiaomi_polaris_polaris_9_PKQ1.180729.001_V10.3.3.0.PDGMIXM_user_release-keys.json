@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Mi MIX 2S",
+    "FINGERPRINT": "Xiaomi/polaris/polaris:9/PKQ1.180729.001/V10.3.3.0.PDGMIXM:user/release-keys",
+    "BRAND": "Xiaomi",
+    "PRODUCT": "polaris",
+    "DEVICE": "polaris",
+    "RELEASE": "9",
+    "ID": "PKQ1.180729.001",
+    "INCREMENTAL": "V10.3.3.0.PDGMIXM",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2019-05-01",
+    "DEVICE_INITIAL_SDK_INT": "26",
+
+  // System Properties
+    "*.build.id": "PKQ1.180729.001",
+    "*.security_patch": "2019-05-01",
+    "*api_level": "26"
+}

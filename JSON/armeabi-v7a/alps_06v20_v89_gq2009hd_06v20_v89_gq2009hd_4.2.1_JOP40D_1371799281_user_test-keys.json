@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "06v20_v89_gq2009hd",
+    "FINGERPRINT": "alps/06v20_v89_gq2009hd/06v20_v89_gq2009hd:4.2.1/JOP40D/1371799281:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "06v20_v89_gq2009hd",
+    "DEVICE": "06v20_v89_gq2009hd",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "eng.root.1371799281",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

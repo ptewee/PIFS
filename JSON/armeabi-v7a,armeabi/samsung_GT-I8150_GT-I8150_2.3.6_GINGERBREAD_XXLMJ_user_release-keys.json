@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Samsung",
+    "MODEL": "GT-I8150",
+    "FINGERPRINT": "samsung/GT-I8150/GT-I8150:2.3.6/GINGERBREAD/XXLMJ:user/release-keys",
+    "BRAND": "Samsung",
+    "PRODUCT": "crdroid_ancora",
+    "DEVICE": "ancora",
+    "RELEASE": "2.3.6",
+    "ID": "LRX22G",
+    "INCREMENTAL": "8aacff1f5c",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX22G",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

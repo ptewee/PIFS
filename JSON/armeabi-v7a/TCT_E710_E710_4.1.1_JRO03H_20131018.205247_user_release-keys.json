@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "TCT",
+    "MODEL": "MTC 1078",
+    "FINGERPRINT": "TCT/E710/E710:4.1.1/JRO03H/20131018.205247:user/release-keys",
+    "BRAND": "TCT",
+    "PRODUCT": "E710",
+    "DEVICE": "E710",
+    "RELEASE": "4.1.1",
+    "ID": "JRO03H",
+    "INCREMENTAL": "20131018.200230",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JRO03H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

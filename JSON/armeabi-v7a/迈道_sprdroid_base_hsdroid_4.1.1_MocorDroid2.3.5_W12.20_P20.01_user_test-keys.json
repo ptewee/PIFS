@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "sprd",
+    "MODEL": "I9100",
+    "FINGERPRINT": "迈道/sprdroid_base/hsdroid:4.1.1/MocorDroid2.3.5/W12.20_P20.01:user/test-keys",
+    "BRAND": "迈道",
+    "PRODUCT": "sprdroid_base",
+    "DEVICE": "hsdroid",
+    "RELEASE": "4.1.1",
+    "ID": "MocorDroid2.3.5",
+    "INCREMENTAL": "W12.20_P20.01",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MocorDroid2.3.5",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

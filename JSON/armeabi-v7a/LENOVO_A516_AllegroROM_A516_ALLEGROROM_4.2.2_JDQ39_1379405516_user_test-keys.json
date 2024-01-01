@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "LENOVO",
+    "MODEL": "Lenovo A516",
+    "FINGERPRINT": "LENOVO/A516_AllegroROM/A516_ALLEGROROM:4.2.2/JDQ39/1379405516:user/test-keys",
+    "BRAND": "LENOVO",
+    "PRODUCT": "A516_AllegroROM",
+    "DEVICE": "A516_ALLEGROROM",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.pengyinhua.1379405516",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

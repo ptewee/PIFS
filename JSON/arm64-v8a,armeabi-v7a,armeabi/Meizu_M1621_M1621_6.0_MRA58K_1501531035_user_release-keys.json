@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Meizu",
+    "MODEL": "M5 Note",
+    "FINGERPRINT": "Meizu/M1621/M1621:6.0/MRA58K/1501531035:user/release-keys",
+    "BRAND": "Meizu",
+    "PRODUCT": "meizu_M5 Note",
+    "DEVICE": "M5Note",
+    "RELEASE": "6.0",
+    "ID": "MRA58K",
+    "INCREMENTAL": "1501531035",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2017-04-05",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MRA58K",
+    "*.security_patch": "2017-04-05",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Vodafone",
+    "MODEL": "Vodafone Smart Tab 3G",
+    "FINGERPRINT": "Vodafone/Vodafone_Smart_Tab_3G/Vodafone_Smart_Tab_3G:4.4.2/KOT49H/vCFL-0:user/release-keys",
+    "BRAND": "Vodafone",
+    "PRODUCT": "Vodafone_Smart_Tab_3G",
+    "DEVICE": "Vodafone_Smart_Tab_3G",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "vCFL-0",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

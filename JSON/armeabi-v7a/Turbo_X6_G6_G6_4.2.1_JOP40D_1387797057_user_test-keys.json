@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "LTJ",
+    "MODEL": "Turbo X6",
+    "FINGERPRINT": "Turbo_X6/G6/G6:4.2.1/JOP40D/1387797057:user/test-keys",
+    "BRAND": "Turbo_X6",
+    "PRODUCT": "G6",
+    "DEVICE": "G6",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "eng.scm.1387797057",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

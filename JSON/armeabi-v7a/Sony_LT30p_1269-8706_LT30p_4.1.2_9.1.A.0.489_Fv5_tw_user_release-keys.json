@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Sony",
+    "MODEL": "LT30p",
+    "FINGERPRINT": "Sony/LT30p_1269-8706/LT30p:4.1.2/9.1.A.0.489/Fv5_tw:user/release-keys",
+    "BRAND": "Sony",
+    "PRODUCT": "LT30p_1269-8706",
+    "DEVICE": "LT30p",
+    "RELEASE": "4.1.2",
+    "ID": "9.1.A.0.489",
+    "INCREMENTAL": "Fv5_tw",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "9.1.A.0.489",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

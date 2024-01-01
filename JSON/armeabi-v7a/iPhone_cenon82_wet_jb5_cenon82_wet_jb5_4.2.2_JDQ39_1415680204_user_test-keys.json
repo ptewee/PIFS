@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "MG482ZP/A",
+    "FINGERPRINT": "iPhone/cenon82_wet_jb5/cenon82_wet_jb5:4.2.2/JDQ39/1415680204:user/test-keys",
+    "BRAND": "iPhone",
+    "PRODUCT": "iPhone",
+    "DEVICE": "cenon82_wet_jb5",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.fb.1415680204",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

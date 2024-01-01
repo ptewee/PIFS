@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Foxconn International Holdings Limited",
+    "MODEL": "C9660",
+    "FINGERPRINT": "YotaPhone/yotaphone/yotaphone:4.2.2/JDQ39/4.2.2.A.0.2.39:user/release-keys",
+    "BRAND": "YotaPhone",
+    "PRODUCT": "yotaphone",
+    "DEVICE": "yotaphone",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "4.2.2.A.0.2.39",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

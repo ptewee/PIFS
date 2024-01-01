@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "itel",
+    "MODEL": "itel it1404",
+    "FINGERPRINT": "itel/scx15_w400_it1404_UUI_NoSDAPK/scx15_w400_it1404:4.4.2/MocorDroid/_P14.30.2_P2:user/release-keys",
+    "BRAND": "itel",
+    "PRODUCT": "scx15_w400_it1404_UUI_NoSDAPK",
+    "DEVICE": "scx15_w400_it1404",
+    "RELEASE": "4.4.2",
+    "ID": "MocorDroid",
+    "INCREMENTAL": "_P14.30.2_P2",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MocorDroid",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

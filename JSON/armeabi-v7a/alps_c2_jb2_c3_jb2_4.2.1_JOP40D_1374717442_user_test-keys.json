@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "ZWX",
+    "MODEL": "C2",
+    "FINGERPRINT": "alps/c2_jb2/c3_jb2:4.2.1/JOP40D/1374717442:user/test-keys",
+    "BRAND": "ZOPO",
+    "PRODUCT": "C2",
+    "DEVICE": "C2",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "eng.lewa.1374717442",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

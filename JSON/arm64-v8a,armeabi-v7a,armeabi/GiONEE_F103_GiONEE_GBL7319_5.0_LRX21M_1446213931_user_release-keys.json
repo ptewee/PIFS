@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "GiONEE",
+    "MODEL": "F103",
+    "FINGERPRINT": "GiONEE/F103/GiONEE_GBL7319:5.0/LRX21M/1446213931:user/release-keys",
+    "BRAND": "GiONEE",
+    "PRODUCT": "F103",
+    "DEVICE": "GiONEE_GBL7319",
+    "RELEASE": "5.0",
+    "ID": "LRX21M",
+    "INCREMENTAL": "1446731143",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX21M",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

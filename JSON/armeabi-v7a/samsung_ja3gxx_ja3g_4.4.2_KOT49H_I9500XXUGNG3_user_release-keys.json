@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "GT-I9500",
+    "FINGERPRINT": "samsung/ja3gxx/ja3g:4.4.2/KOT49H/I9500XXUGNG3:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "ja3gxx",
+    "DEVICE": "ja3g",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "I9500XXUGNG3",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

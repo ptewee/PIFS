@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "Q5",
+    "FINGERPRINT": "alps/c799_q29_a11/c799_q29_a11:5.0.1/KOT49H/1495778645:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "c799_q29_a11",
+    "DEVICE": "c799_q29_a11",
+    "RELEASE": "5.0.1",
+    "ID": "KOT49H",
+    "INCREMENTAL": "eng.sw01.1495778645",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

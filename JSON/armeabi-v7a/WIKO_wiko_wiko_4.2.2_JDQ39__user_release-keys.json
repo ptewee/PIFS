@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Enspert",
+    "MODEL": "BARRY",
+    "FINGERPRINT": "WIKO/wiko/wiko:4.2.2/JDQ39/:user/release-keys",
+    "BRAND": "WIKO",
+    "PRODUCT": "wiko",
+    "DEVICE": "wiko",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "5",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "MTC",
+    "MODEL": "MTC SMART Sprint 4G",
+    "FINGERPRINT": "MTC/SMART_Sprint_4G/SMART_Sprint_4G:5.1/LMY47D/1439342659:user/release-keys",
+    "BRAND": "MTC",
+    "PRODUCT": "SMART_Sprint_4G",
+    "DEVICE": "SMART_Sprint_4G",
+    "RELEASE": "5.1",
+    "ID": "LMY47D",
+    "INCREMENTAL": "1439630242",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

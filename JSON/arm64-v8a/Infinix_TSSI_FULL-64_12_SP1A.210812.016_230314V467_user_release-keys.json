@@ -1,0 +1,22 @@
+{
+  // Build Fields
+    "MANUFACTURER": "INFINIX",
+    "MODEL": "FULL-64",
+    "FINGERPRINT": "Infinix/TSSI/FULL-64:12/SP1A.210812.016/230314V467:user/release-keys",
+    "BRAND": "Infinix",
+    "PRODUCT": "TSSI",
+    "DEVICE": "FULL-64",
+    "RELEASE": "12",
+    "ID": "SP1A.210812.016",
+    "INCREMENTAL": "230314V1309",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2023-03-05",
+    "DEVICE_INITIAL_SDK_INT": "31",
+
+  // System Properties
+    "*.build.id": "SP1A.210812.016",
+    "*.security_patch": "2023-03-05",
+    "*.vndk_version": "31",
+    "*api_level": "31"
+}

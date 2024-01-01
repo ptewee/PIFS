@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "amlogic",
+    "MODEL": "NEXBOX-A95X",
+    "FINGERPRINT": "Android/nexbox_a95x/nexbox_a95x:5.1.1/NEXBOX-A95X/20170716:userdebug/test-keys",
+    "BRAND": "Android",
+    "PRODUCT": "nexbox_a95x",
+    "DEVICE": "nexbox_a95x",
+    "RELEASE": "5.1.1",
+    "ID": "NEXBOX-A95X",
+    "INCREMENTAL": "20170716",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "2015-11-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "NEXBOX-A95X",
+    "*.security_patch": "2015-11-01",
+    "*api_level": "25"
+}

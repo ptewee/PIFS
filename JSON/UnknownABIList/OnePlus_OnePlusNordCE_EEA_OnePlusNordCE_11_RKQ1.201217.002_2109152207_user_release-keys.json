@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "OnePlus",
+    "MODEL": "EB2103",
+    "FINGERPRINT": "OnePlus/OnePlusNordCE_EEA/OnePlusNordCE:11/RKQ1.201217.002/2109152207:user/release-keys",
+    "BRAND": "OnePlus",
+    "PRODUCT": "OnePlusNordCE_EEA",
+    "DEVICE": "OnePlusNordCE",
+    "RELEASE": "11",
+    "ID": "RKQ1.201217.002",
+    "INCREMENTAL": "2109152207",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2021-09-01",
+    "DEVICE_INITIAL_SDK_INT": "30",
+
+  // System Properties
+    "*.build.id": "RKQ1.201217.002",
+    "*.security_patch": "2021-09-01",
+    "*api_level": "30"
+}

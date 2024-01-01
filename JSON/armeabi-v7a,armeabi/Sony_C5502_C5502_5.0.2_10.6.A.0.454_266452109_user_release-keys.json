@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Sony",
+    "MODEL": "C5502",
+    "FINGERPRINT": "Sony/C5502/C5502:5.0.2/10.6.A.0.454/266452109:user/release-keys",
+    "BRAND": "Sony",
+    "PRODUCT": "C5502",
+    "DEVICE": "C5502",
+    "RELEASE": "5.0.2",
+    "ID": "10.6.A.0.454",
+    "INCREMENTAL": "266452109",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "10.6.A.0.454",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "Note30 mini",
+    "FINGERPRINT": "alps/x6_v5_x50/x6_v5_x50:4.4.2/KOT49H/1651627101:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "x6_v5_x50",
+    "DEVICE": "x6_v5_x50",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "eng.lee.1651627101",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

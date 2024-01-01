@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "JIAYU",
+    "MODEL": "JY-G4",
+    "FINGERPRINT": "alps/g4_jb2/g4_jb2:4.2.1/JOP40D/1397366667:user/test-keys",
+    "BRAND": "JIAYU",
+    "PRODUCT": "V8",
+    "DEVICE": "V8",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "eng.lewa.1397366667",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

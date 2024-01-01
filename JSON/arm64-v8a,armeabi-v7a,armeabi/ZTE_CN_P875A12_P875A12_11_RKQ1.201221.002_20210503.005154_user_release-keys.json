@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "ZTE",
+    "MODEL": "ZTE A2022P",
+    "FINGERPRINT": "ZTE/CN_P875A12/P875A12:11/RKQ1.201221.002/20210503.005154:user/release-keys",
+    "BRAND": "ZTE",
+    "PRODUCT": "CN_P875A12",
+    "DEVICE": "P875A12",
+    "RELEASE": "11",
+    "ID": "RKQ1.201221.002",
+    "INCREMENTAL": "20210503.005154",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2021-03-01",
+    "DEVICE_INITIAL_SDK_INT": "30",
+
+  // System Properties
+    "*.build.id": "RKQ1.201221.002",
+    "*.security_patch": "2021-03-01",
+    "*api_level": "30"
+}

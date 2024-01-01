@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "itel",
+    "MODEL": "itel_it1502",
+    "FINGERPRINT": "itel/v160_tsl_211_UUI/v160_tsl_211:4.4.2/KOT49H/eng.root.20150323.201740:user/test-keys",
+    "BRAND": "itel",
+    "PRODUCT": "v160_tsl_211_UUI",
+    "DEVICE": "v160_tsl_211",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "eng.root.20150323.201740",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

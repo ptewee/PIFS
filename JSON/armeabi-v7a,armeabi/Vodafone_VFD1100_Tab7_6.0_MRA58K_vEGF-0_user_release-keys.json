@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Vodafone",
+    "MODEL": "VFD 1100",
+    "FINGERPRINT": "Vodafone/VFD1100/Tab7:6.0/MRA58K/vEGF-0:user/release-keys",
+    "BRAND": "Vodafone",
+    "PRODUCT": "VFD1100",
+    "DEVICE": "Tab7",
+    "RELEASE": "6.0",
+    "ID": "MRA58K",
+    "INCREMENTAL": "vEGF-0",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2016-05-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MRA58K",
+    "*.security_patch": "2016-05-01",
+    "*api_level": "25"
+}

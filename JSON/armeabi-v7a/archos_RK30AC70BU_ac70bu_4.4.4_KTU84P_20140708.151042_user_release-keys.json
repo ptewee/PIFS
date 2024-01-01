@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "archos",
+    "MODEL": "BUSH 7.0 TABLET",
+    "FINGERPRINT": "archos/RK30AC70BU/ac70bu:4.4.4/KTU84P/20140708.151042:user/release-keys",
+    "BRAND": "archos",
+    "PRODUCT": "RK30AC70BU",
+    "DEVICE": "ac70bu",
+    "RELEASE": "4.4.4",
+    "ID": "KTU84P",
+    "INCREMENTAL": "20140708.151042",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KTU84P",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

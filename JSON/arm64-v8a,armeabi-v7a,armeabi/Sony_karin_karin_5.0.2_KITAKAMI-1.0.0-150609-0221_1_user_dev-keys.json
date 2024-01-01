@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Sony",
+    "MODEL": "SGP771",
+    "FINGERPRINT": "Sony/karin/karin:5.0.2/KITAKAMI-1.0.0-150609-0221/1:user/dev-keys",
+    "BRAND": "Sony",
+    "PRODUCT": "karin",
+    "DEVICE": "karin",
+    "RELEASE": "5.0.2",
+    "ID": "28.0.A.7.24",
+    "INCREMENTAL": "1",
+    "TYPE": "user",
+    "TAGS": "dev-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "28.0.A.7.24",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "LENOVO",
+    "MODEL": "Lenovo X2-CU",
+    "FINGERPRINT": "Lenovo/x2cu/X2-CU:4.4.2/KOT49H/VIBEUI_V2.0_1511_5.22.1_ST_X2-CU.:user/release-keys",
+    "BRAND": "Lenovo",
+    "PRODUCT": "x2cu",
+    "DEVICE": "X2-CU",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "VIBEUI_V2.0_1511_5.22.1_ST_X2-CU",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

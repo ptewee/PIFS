@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "TP-LINK",
+    "MODEL": "Neffos C5 Max",
+    "FINGERPRINT": "Neffos/TP702B/C5_Max:5.1/LMY47D/H10S102D02B20170313R1011.170313:user/release-keys",
+    "BRAND": "Neffos",
+    "PRODUCT": "TP702B",
+    "DEVICE": "C5_Max",
+    "RELEASE": "5.1",
+    "ID": "LMY47D",
+    "INCREMENTAL": "H10S102D02B20170313R1011.170313",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2017-02-05",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47D",
+    "*.security_patch": "2017-02-05",
+    "*api_level": "25"
+}

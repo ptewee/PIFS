@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Micromax",
+    "MODEL": "Micromax A117",
+    "FINGERPRINT": "micromax/s9203/s9203:4.2.1/JOP40D/:user/release-keys",
+    "BRAND": "micromax",
+    "PRODUCT": "A117",
+    "DEVICE": "A117",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "58",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

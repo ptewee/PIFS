@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Explay",
+    "MODEL": "Atom",
+    "FINGERPRINT": "Explay/Atom/Atom:4.4.2/KOT49H/20140808.004020:user/release-keys",
+    "BRAND": "Explay",
+    "PRODUCT": "Atom",
+    "DEVICE": "Atom",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "22",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

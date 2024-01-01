@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Sony",
+    "MODEL": "Xperia E3",
+    "FINGERPRINT": "Sony/D2203/D2203:4.4.2/18.4.C.1.29/4nv_bQ:user/release-keys",
+    "BRAND": "Sony",
+    "PRODUCT": "D2203",
+    "DEVICE": "flamingo",
+    "RELEASE": "4.4.2",
+    "ID": "KTU84Q",
+    "INCREMENTAL": "b342fd5789",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KTU84Q",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

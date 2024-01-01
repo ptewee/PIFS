@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "digiin",
+    "MODEL": "SurfTab ST70204-3",
+    "FINGERPRINT": "Trekstor/M7100KLD/TREKM7100KLD:4.2.2/JDQ39/V2.0.7:user/release-keys",
+    "BRAND": "Trekstor",
+    "PRODUCT": "M7100KLD",
+    "DEVICE": "TREKM7100KLD",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.root.20140222.152922",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

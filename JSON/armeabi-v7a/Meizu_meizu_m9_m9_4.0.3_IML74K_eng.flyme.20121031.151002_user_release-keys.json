@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Meizu",
+    "MODEL": "M9",
+    "FINGERPRINT": "Meizu/meizu_m9/m9:4.0.3/IML74K/eng.flyme.20121031.151002:user/release-keys",
+    "BRAND": "Meizu",
+    "PRODUCT": "meizu_m9",
+    "DEVICE": "m9",
+    "RELEASE": "4.0.3",
+    "ID": "IML74K",
+    "INCREMENTAL": "eng.flyme.20121031.151002",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "IML74K",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "MI 2",
+    "FINGERPRINT": "Xiaomi/aries/aries:4.1.1/JRO03L/JLB52.0:user/release-keys",
+    "BRAND": "Xiaomi",
+    "PRODUCT": "aries",
+    "DEVICE": "aries",
+    "RELEASE": "4.1.1",
+    "ID": "JRO03L",
+    "INCREMENTAL": "JLB52.0",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JRO03L",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

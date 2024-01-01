@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "i-STYLE Q4",
+    "FINGERPRINT": "alps/lcsh75_6628_ics/lcsh75_6628_ics:4.0.4/IMM76D/:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "lcsh75_6628_ics",
+    "DEVICE": "lcsh75_6628_ics",
+    "RELEASE": "4.0.4",
+    "ID": "IMM76D",
+    "INCREMENTAL": "27",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "IMM76D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

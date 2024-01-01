@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-P900",
+    "FINGERPRINT": "samsung/cm_v1awifi/v1awifi:5.1.1/LVY48H/7ae058fdcc:userdebug/test-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "v1awifi",
+    "DEVICE": "v1awifi",
+    "RELEASE": "5.1.1",
+    "ID": "LVY48H",
+    "INCREMENTAL": "7ae058fdcc",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LVY48H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

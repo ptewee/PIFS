@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Sony",
+    "MODEL": "C5303",
+    "FINGERPRINT": "Sony/C5303/C5303:4.3/12.1.A.1.207/MPt_nw:user/release-keys",
+    "BRAND": "Sony",
+    "PRODUCT": "C5303",
+    "DEVICE": "C5303",
+    "RELEASE": "4.3",
+    "ID": "12.1.A.1.207",
+    "INCREMENTAL": "MPt_nw",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "12.1.A.1.207",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

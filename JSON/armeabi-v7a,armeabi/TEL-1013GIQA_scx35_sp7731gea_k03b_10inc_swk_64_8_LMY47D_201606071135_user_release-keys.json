@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "ZOOCH",
+    "MODEL": "TEL-1013GIQA",
+    "FINGERPRINT": "TEL-1013GIQA/scx35_sp7731gea_k03b_10inc_swk_64_8/LMY47D/201606071135:user/release-keys",
+    "BRAND": "TEL-1013GIQA",
+    "PRODUCT": "sp7731geaplus_k03b_10inc_swk_64_8_dt",
+    "DEVICE": "scx35_sp7731gea_k03b_10inc_swk_64_8",
+    "RELEASE": "201606071135",
+    "ID": "LMY47D",
+    "INCREMENTAL": "201606071135",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

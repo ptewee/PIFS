@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "asus",
+    "MODEL": "Nexus 7",
+    "FINGERPRINT": "google/nakasig/tilapia:4.2.1/JOP40D/533553:user/release-keys",
+    "BRAND": "google",
+    "PRODUCT": "nakasig",
+    "DEVICE": "tilapia",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "533553",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

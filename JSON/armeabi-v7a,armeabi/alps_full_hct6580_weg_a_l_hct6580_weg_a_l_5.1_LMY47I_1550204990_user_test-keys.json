@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "P20 Pro",
+    "FINGERPRINT": "alps/full_hct6580_weg_a_l/hct6580_weg_a_l:5.1/LMY47I/1550204990:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "P20 Pro",
+    "DEVICE": "P20 Pro",
+    "RELEASE": "5.1",
+    "ID": "LMY47I",
+    "INCREMENTAL": "1550204990",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2016-06-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47I",
+    "*.security_patch": "2016-06-01",
+    "*api_level": "25"
+}

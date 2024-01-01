@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Razer",
+    "MODEL": "Phone",
+    "FINGERPRINT": "razer/cheryl/cheryl_ckh:9/P-MR2-RC001-CKH-N/7087:user/release-keys",
+    "BRAND": "razer",
+    "PRODUCT": "cheryl",
+    "DEVICE": "cheryl_ckh",
+    "RELEASE": "9",
+    "ID": "P-MR2-RC001-CKH-N",
+    "INCREMENTAL": "7087",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2019-11-05",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "P-MR2-RC001-CKH-N",
+    "*.security_patch": "2019-11-05",
+    "*api_level": "25"
+}

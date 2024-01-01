@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "P8",
+    "FINGERPRINT": "alps/k006_shx_s20/k006_shx_s20:5.1.0/KOT49H/1446537919:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "k006_shx_s20",
+    "DEVICE": "k006_shx_s20",
+    "RELEASE": "5.1.0",
+    "ID": "KOT49H",
+    "INCREMENTAL": "eng.flycom-224.1446537919",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

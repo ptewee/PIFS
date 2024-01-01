@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Sony Ericsson",
+    "MODEL": "LT26i",
+    "FINGERPRINT": "SEMC/LT26i_1257-3921/LT26i:4.1.2/6.2.B.1.96/n7v_zg:user/release-keys",
+    "BRAND": "SEMC",
+    "PRODUCT": "LT26i_1257-3921",
+    "DEVICE": "LT26i",
+    "RELEASE": "4.1.2",
+    "ID": "6.2.B.1.96",
+    "INCREMENTAL": "n7v_zg",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "6.2.B.1.96",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

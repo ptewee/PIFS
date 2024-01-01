@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Redmi 7A",
+    "FINGERPRINT": "Xiaomi/pine/pine:9/PKQ1.190319.001/V11.0.7.0.PCMMIXM:user/release-keys",
+    "BRAND": "Xiaomi",
+    "PRODUCT": "pine",
+    "DEVICE": "pine",
+    "RELEASE": "9",
+    "ID": "PKQ1.190319.001",
+    "INCREMENTAL": "V11.0.7.0.PCMMIXM",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2020-03-01",
+    "DEVICE_INITIAL_SDK_INT": "28",
+
+  // System Properties
+    "*.build.id": "PKQ1.190319.001",
+    "*.security_patch": "2020-03-01",
+    "*api_level": "28"
+}

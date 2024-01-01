@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Vodafone",
+    "MODEL": "Vodafone 785",
+    "FINGERPRINT": "Vodafone/Vodafone_785/Vodafone_785:4.4.2/KOT49H/v2AIE-0:user/release-keys",
+    "BRAND": "Vodafone",
+    "PRODUCT": "Vodafone_785",
+    "DEVICE": "Vodafone_785",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "v2AIE-0",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

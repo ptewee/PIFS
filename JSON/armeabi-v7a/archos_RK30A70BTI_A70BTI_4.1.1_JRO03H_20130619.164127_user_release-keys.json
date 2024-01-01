@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "archos",
+    "MODEL": "ARCHOS 70b TITANIUM",
+    "FINGERPRINT": "archos/RK30A70BTI/A70BTI:4.1.1/JRO03H/20130619.164127:user/release-keys",
+    "BRAND": "archos",
+    "PRODUCT": "RK30A70BTI",
+    "DEVICE": "A70BTI",
+    "RELEASE": "4.1.1",
+    "ID": "JRO03H",
+    "INCREMENTAL": "20130619.164127",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JRO03H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "FiiO",
+    "MODEL": "X5",
+    "FINGERPRINT": "FiiO/X5/rk3188:5.1.1/LMY48Y/02020942:user/release-keys",
+    "BRAND": "FiiO",
+    "PRODUCT": "X5",
+    "DEVICE": "rk3188",
+    "RELEASE": "5.1.1",
+    "ID": "LMY48Y",
+    "INCREMENTAL": "eng..20180202.094106",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2015-12-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY48Y",
+    "*.security_patch": "2015-12-01",
+    "*api_level": "25"
+}

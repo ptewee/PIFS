@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "DM98",
+    "FINGERPRINT": "alps/vanzo72_we_72_kk/vanzo72_we_72_kk:4.4.2/KOT49H/1507688583:user/test-keys",
+    "BRAND": "alps",
+    "PRODUCT": "DM98",
+    "DEVICE": "DM98",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "eng.daiwenhai.1507688583",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

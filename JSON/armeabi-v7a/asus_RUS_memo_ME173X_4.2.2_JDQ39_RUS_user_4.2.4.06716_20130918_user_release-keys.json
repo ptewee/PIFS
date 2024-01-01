@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "asus",
+    "MODEL": "ME173X",
+    "FINGERPRINT": "asus/RUS_memo/ME173X:4.2.2/JDQ39/RUS_user_4.2.4.06716_20130918:user/release-keys",
+    "BRAND": "asus",
+    "PRODUCT": "RUS_memo",
+    "DEVICE": "ME173X",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "RUS_memo-RUS_user_4.2.4.06716_20130918-user-20130918",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

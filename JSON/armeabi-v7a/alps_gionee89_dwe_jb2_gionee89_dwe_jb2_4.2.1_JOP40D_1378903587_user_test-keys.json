@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "GIONEE",
+    "MODEL": "E6",
+    "FINGERPRINT": "alps/gionee89_dwe_jb2/gionee89_dwe_jb2:4.2.1/JOP40D/1378903587:user/test-keys",
+    "BRAND": "GIONEE",
+    "PRODUCT": "GIONEE",
+    "DEVICE": "GIONEE",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "eng.znsj_bianyi2.1378903587",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

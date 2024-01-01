@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Amlogic",
+    "MODEL": "TV-BOX",
+    "FINGERPRINT": "Amlogic/p281/p281:10/NHG47L/20210304:userdebug/test-keys",
+    "BRAND": "Amlogic",
+    "PRODUCT": "p281",
+    "DEVICE": "p281",
+    "RELEASE": "10",
+    "ID": "NHG47L",
+    "INCREMENTAL": "20210304",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "2019-12-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "NHG47L",
+    "*.security_patch": "2019-12-01",
+    "*api_level": "25"
+}

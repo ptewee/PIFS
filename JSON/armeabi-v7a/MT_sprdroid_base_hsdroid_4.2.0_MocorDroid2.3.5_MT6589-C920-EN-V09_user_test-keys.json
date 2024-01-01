@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "MT",
+    "MODEL": "GT-A9500",
+    "FINGERPRINT": "MT/sprdroid_base/hsdroid:4.2.0/MocorDroid2.3.5/MT6589-C920-EN-V09:user/test-keys",
+    "BRAND": "MT",
+    "PRODUCT": "sprdroid_base",
+    "DEVICE": "hsdroid",
+    "RELEASE": "4.2.0",
+    "ID": "MocorDroid2.3.5",
+    "INCREMENTAL": "MT6589-C920-EN-V09",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MocorDroid2.3.5",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "LGE",
+    "MODEL": "LG-H811",
+    "FINGERPRINT": "lge/p1_tmo_us/p1:6.0/MRA58K/161651603dd1f:user/release-keys",
+    "BRAND": "lge",
+    "PRODUCT": "p1_tmo_us",
+    "DEVICE": "p1",
+    "RELEASE": "6.0",
+    "ID": "MRA58K",
+    "INCREMENTAL": "161651603dd1f",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2016-06-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MRA58K",
+    "*.security_patch": "2016-06-01",
+    "*api_level": "25"
+}

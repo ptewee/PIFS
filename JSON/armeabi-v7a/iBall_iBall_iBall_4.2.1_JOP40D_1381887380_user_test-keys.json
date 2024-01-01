@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "iBall",
+    "MODEL": "Andi5h quadro",
+    "FINGERPRINT": "iBall/iBall/iBall:4.2.1/JOP40D/1381887380:user/test-keys",
+    "BRAND": "iBall",
+    "PRODUCT": "Andi5h quadro",
+    "DEVICE": "iBall",
+    "RELEASE": "4.2.1",
+    "ID": "JOP40D",
+    "INCREMENTAL": "eng.builder24.1381887380",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JOP40D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

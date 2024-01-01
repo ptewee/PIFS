@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "HUAWEI",
+    "MODEL": "MSM8916 for arm64",
+    "FINGERPRINT": "Android/msm8916_64/msm8916_64:6.0.1/MMB28B/d0090306503211916:user/test-keys",
+    "BRAND": "HONOR",
+    "PRODUCT": "msm8916_64",
+    "DEVICE": "HNKIW-Q",
+    "RELEASE": "6.0.1",
+    "ID": "MMB28B",
+    "INCREMENTAL": "eng.d00903065.20170321.191451",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2017-03-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MMB28B",
+    "*.security_patch": "2017-03-01",
+    "*api_level": "25"
+}

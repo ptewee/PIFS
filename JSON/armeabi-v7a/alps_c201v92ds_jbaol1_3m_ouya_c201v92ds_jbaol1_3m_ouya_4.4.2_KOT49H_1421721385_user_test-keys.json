@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "elephone",
+    "MODEL": "Elephone P3000S",
+    "FINGERPRINT": "alps/c201v92ds_jbaol1_3m_ouya/c201v92ds_jbaol1_3m_ouya:4.4.2/KOT49H/1421721385:user/test-keys",
+    "BRAND": "elephone",
+    "PRODUCT": "P3000S",
+    "DEVICE": "c201v92ds_jbaol1_3m_ouya",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "eng.root.1421721385",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "unknown",
+    "MODEL": "MC603CH",
+    "FINGERPRINT": "yusu/cellonsz73_gb/cellonsz73_gb:2.3.5/GRJ90/eng.yangmei.1351588123:user/test-keys",
+    "BRAND": "yusu",
+    "PRODUCT": "cellonsz73_gb",
+    "DEVICE": "cellonsz73_gb",
+    "RELEASE": "2.3.5",
+    "ID": "GRJ90",
+    "INCREMENTAL": "eng.yangmei.1351588123",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "GRJ90",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

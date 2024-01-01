@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Rover",
+    "MODEL": "Rover",
+    "FINGERPRINT": "SPRD/sp7731gea_hdplus_dt/scx35_sp7731gea_hd:5.1/LMY47D/lh22507261658:user/release-keys",
+    "BRAND": "Rover",
+    "PRODUCT": "Rover",
+    "DEVICE": "Rover",
+    "RELEASE": "5.1",
+    "ID": "LMY47D",
+    "INCREMENTAL": "eng.lh225.20160726.165550",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47D",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

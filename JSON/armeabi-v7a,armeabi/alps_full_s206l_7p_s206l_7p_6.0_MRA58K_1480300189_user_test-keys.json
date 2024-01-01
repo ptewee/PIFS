@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "iPhone",
+    "MODEL": "7 Plus",
+    "FINGERPRINT": "alps/full_s206l_7p/s206l_7p:6.0/MRA58K/1480300189:user/test-keys",
+    "BRAND": "APPLE",
+    "PRODUCT": "7 Plus",
+    "DEVICE": "7 Plus",
+    "RELEASE": "6.0",
+    "ID": "iOS10.0",
+    "INCREMENTAL": "iOS10.0",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "2016-02-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "iOS10.0",
+    "*.security_patch": "2016-02-01",
+    "*api_level": "25"
+}

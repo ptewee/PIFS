@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "TCL",
+    "MODEL": "9003X",
+    "FINGERPRINT": "TCL/9003X/Pixi4-7_3G:6.0/MRA58K/vC9D-0:user/release-keys",
+    "BRAND": "TCL",
+    "PRODUCT": "9003X",
+    "DEVICE": "Pixi4-7_3G",
+    "RELEASE": "6.0",
+    "ID": "MRA58K",
+    "INCREMENTAL": "vC9D-0",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2017-11-06",
+    "DEVICE_INITIAL_SDK_INT": "23",
+
+  // System Properties
+    "*.build.id": "MRA58K",
+    "*.security_patch": "2017-11-06",
+    "*api_level": "23"
+}

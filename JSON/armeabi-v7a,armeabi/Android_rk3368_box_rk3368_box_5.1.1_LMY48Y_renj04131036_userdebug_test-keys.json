@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "rockchip",
+    "MODEL": "X800",
+    "FINGERPRINT": "Android/rk3368_box/rk3368_box:5.1.1/LMY48Y/renj04131036:userdebug/test-keys",
+    "BRAND": "Android",
+    "PRODUCT": "rk3368_box",
+    "DEVICE": "rk3368_box",
+    "RELEASE": "5.1.1",
+    "ID": "LMY48Y",
+    "INCREMENTAL": "eng.renj.20160413.103032",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "2015-12-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY48Y",
+    "*.security_patch": "2015-12-01",
+    "*api_level": "25"
+}

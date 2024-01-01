@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "MStar Semiconductor, Inc.",
+    "MODEL": "Full AOSP on MStar Cedric3",
+    "FINGERPRINT": "Mstar/full_mstarcedric3/mstarcedric3:4.1.1/JRO03C/V1.0.1.0:userdebug/dev-keys",
+    "BRAND": "Mstar",
+    "PRODUCT": "full_mstarcedric3",
+    "DEVICE": "mstarcedric3",
+    "RELEASE": "4.1.1",
+    "ID": "JRO03C",
+    "INCREMENTAL": "V1.0.1.0",
+    "TYPE": "userdebug",
+    "TAGS": "dev-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JRO03C",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

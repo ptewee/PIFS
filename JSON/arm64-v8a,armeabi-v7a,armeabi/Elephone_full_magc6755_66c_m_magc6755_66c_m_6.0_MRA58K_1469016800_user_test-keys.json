@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Elephone",
+    "MODEL": "M3",
+    "FINGERPRINT": "Elephone/full_magc6755_66c_m/magc6755_66c_m:6.0/MRA58K/1469016800:user/test-keys",
+    "BRAND": "Elephone",
+    "PRODUCT": "M3",
+    "DEVICE": "magc6755_66c_m",
+    "RELEASE": "6.0",
+    "ID": "MRA58K",
+    "INCREMENTAL": "1469016800",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "2016-03-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MRA58K",
+    "*.security_patch": "2016-03-01",
+    "*api_level": "25"
+}

@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-E500H",
+    "FINGERPRINT": "samsung/e53gxx/e53g:5.1.1/LMY47X/E500HXXU1BOL3:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "e53gxx",
+    "DEVICE": "e53g",
+    "RELEASE": "5.1.1",
+    "ID": "LMY47X",
+    "INCREMENTAL": "E500HXXU1BOL3",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2015-12-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47X",
+    "*.security_patch": "2015-12-01",
+    "*api_level": "25"
+}

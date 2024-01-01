@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "Meizu",
+    "MODEL": "MX4",
+    "FINGERPRINT": "Meizu/meizu_mx4/mx4:5.0.1/LRX22C/m75.Flyme_OS_4.5.7.20151020193529:user/release-keys",
+    "BRAND": "Meizu",
+    "PRODUCT": "meizu_mx4",
+    "DEVICE": "mx4",
+    "RELEASE": "5.0.1",
+    "ID": "LRX22C",
+    "INCREMENTAL": "m75.Flyme_OS_4.5.7.20151020193529",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX22C",
+    "*.security_patch": "",
+    "*api_level": "25"
+}

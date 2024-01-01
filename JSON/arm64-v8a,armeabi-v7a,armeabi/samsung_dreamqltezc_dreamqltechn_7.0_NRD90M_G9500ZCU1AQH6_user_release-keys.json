@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-G9500",
+    "FINGERPRINT": "samsung/dreamqltezc/dreamqltechn:7.0/NRD90M/G9500ZCU1AQH6:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "dreamqltezc",
+    "DEVICE": "dreamqltechn",
+    "RELEASE": "7.0",
+    "ID": "NRD90M",
+    "INCREMENTAL": "G9500ZCU1AQH6",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2017-08-01",
+    "DEVICE_INITIAL_SDK_INT": "24",
+
+  // System Properties
+    "*.build.id": "NRD90M",
+    "*.security_patch": "2017-08-01",
+    "*api_level": "24"
+}

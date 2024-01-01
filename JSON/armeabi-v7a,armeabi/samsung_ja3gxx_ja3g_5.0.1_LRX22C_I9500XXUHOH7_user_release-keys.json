@@ -1,0 +1,21 @@
+{
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "GT-I9500",
+    "FINGERPRINT": "samsung/ja3gxx/ja3g:5.0.1/LRX22C/I9500XXUHOH7:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "ja3gxx",
+    "DEVICE": "ja3g",
+    "RELEASE": "5.0.1",
+    "ID": "LRX22C",
+    "INCREMENTAL": "I9500XXUHOH7",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX22C",
+    "*.security_patch": "",
+    "*api_level": "25"
+}
