@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "JYT",
-  "MODEL": "JY-S3",
-  "BRAND": "JYT",
-  "PRODUCT": "S3",
-  "DEVICE": "S3",
-  "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
-  "ID": "LMY47D",
-  "INCREMENTAL": "1477080736",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "alps/full_h560/h560:5.1/LMY47D/1477080736:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
-  "*.build.id": "LMY47D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "22"
+  // Build Fields
+    "MANUFACTURER": "JYT",
+    "MODEL": "JY-S3",
+    "FINGERPRINT": "alps/full_h560/h560:5.1/LMY47D/1477080736:user/release-keys",
+    "BRAND": "JYT",
+    "PRODUCT": "S3",
+    "DEVICE": "S3",
+    "RELEASE": "5.1",
+    "ID": "LMY47D",
+    "INCREMENTAL": "1477080736",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

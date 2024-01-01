@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Elephone",
-  "MODEL": "P8_3D",
-  "BRAND": "Elephone",
-  "PRODUCT": "P8_3D",
-  "DEVICE": "P8_3D",
-  "RELEASE": "7.0",
-  "RELEASE_OR_CODENAME": "7.0",
-  "ID": "NRD90M",
-  "INCREMENTAL": "1521081495",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Elephone/P8_3D/P8_3D:7.0/NRD90M/20180108.224245:user/release-keys",
-  "SECURITY_PATCH": "2017-11-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 24,
-  "*.build.id": "NRD90M",
-  "*.security_patch": "2017-11-05",
-  "*.build.version.sdk": "24"
+  // Build Fields
+    "MANUFACTURER": "Elephone",
+    "MODEL": "P8_3D",
+    "FINGERPRINT": "Elephone/P8_3D/P8_3D:7.0/NRD90M/20180108.224245:user/release-keys",
+    "BRAND": "Elephone",
+    "PRODUCT": "P8_3D",
+    "DEVICE": "P8_3D",
+    "RELEASE": "7.0",
+    "ID": "NRD90M",
+    "INCREMENTAL": "1521081495",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2017-11-05",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "NRD90M",
+    "*.security_patch": "2017-11-05",
+    "*api_level": "25"
 }

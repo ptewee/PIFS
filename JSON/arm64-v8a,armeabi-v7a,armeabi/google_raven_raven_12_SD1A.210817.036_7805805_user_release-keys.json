@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Xiaomi",
-  "MODEL": "Mi A3",
-  "BRAND": "Xiaomi",
-  "PRODUCT": "lineage_laurel_sprout",
-  "DEVICE": "laurel_sprout",
-  "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
-  "ID": "RD2A.211001.002",
-  "INCREMENTAL": "eng.zeesha.20211104.221026",
-  "TYPE": "userdebug",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys",
-  "SECURITY_PATCH": "2021-11-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 30,
-  "*.build.id": "RD2A.211001.002",
-  "*.security_patch": "2021-11-05",
-  "*.build.version.sdk": "30"
+  // Build Fields
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "Mi A3",
+    "FINGERPRINT": "google/raven/raven:12/SD1A.210817.036/7805805:user/release-keys",
+    "BRAND": "Xiaomi",
+    "PRODUCT": "lineage_laurel_sprout",
+    "DEVICE": "laurel_sprout",
+    "RELEASE": "12",
+    "ID": "RD2A.211001.002",
+    "INCREMENTAL": "eng.zeesha.20211104.221026",
+    "TYPE": "userdebug",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2021-11-05",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "RD2A.211001.002",
+    "*.security_patch": "2021-11-05",
+    "*api_level": "25"
 }

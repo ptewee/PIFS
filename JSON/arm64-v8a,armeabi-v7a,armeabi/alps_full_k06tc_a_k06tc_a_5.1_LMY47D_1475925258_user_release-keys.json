@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "alps",
-  "MODEL": "k06tc_a",
-  "BRAND": "alps",
-  "PRODUCT": "full_k06tc_a",
-  "DEVICE": "k06tc_a",
-  "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
-  "ID": "LMY47D",
-  "INCREMENTAL": "1475925258",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "alps/full_k06tc_a/k06tc_a:5.1/LMY47D/1475925258:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
-  "*.build.id": "LMY47D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "22"
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "k06tc_a",
+    "FINGERPRINT": "alps/full_k06tc_a/k06tc_a:5.1/LMY47D/1475925258:user/release-keys",
+    "BRAND": "alps",
+    "PRODUCT": "full_k06tc_a",
+    "DEVICE": "k06tc_a",
+    "RELEASE": "5.1",
+    "ID": "LMY47D",
+    "INCREMENTAL": "1475925258",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
