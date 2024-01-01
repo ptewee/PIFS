@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "SM-N910F",
-  "BRAND": "samsung",
-  "PRODUCT": "trlte",
-  "DEVICE": "trltexx",
-  "RELEASE": "5.0.1",
-  "RELEASE_OR_CODENAME": "5.0.1",
-  "ID": "LRX22C",
-  "INCREMENTAL": "Version 1",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/trltexx/trlte:5.0.1/LRX22C/N910FZNU1BOA7:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
-  "*.build.id": "LRX22C",
-  "*.security_patch": "",
-  "*.build.version.sdk": "21"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-N910F",
+    "FINGERPRINT": "samsung/trltexx/trlte:5.0.1/LRX22C/N910FZNU1BOA7:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "trlte",
+    "DEVICE": "trltexx",
+    "RELEASE": "5.0.1",
+    "ID": "LRX22C",
+    "INCREMENTAL": "Version 1",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX22C",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

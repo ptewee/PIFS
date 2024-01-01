@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "GT-I9295",
-  "BRAND": "samsung",
-  "PRODUCT": "jactiveltexx",
-  "DEVICE": "jactivelte",
-  "RELEASE": "5.0.1",
-  "RELEASE_OR_CODENAME": "5.0.1",
-  "ID": "LRX22C",
-  "INCREMENTAL": "I9295XXUDOB4",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/jactiveltexx/jactivelte:5.0.1/LRX22C/I9295XXUDOB4:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
-  "*.build.id": "LRX22C",
-  "*.security_patch": "",
-  "*.build.version.sdk": "21"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "GT-I9295",
+    "FINGERPRINT": "samsung/jactiveltexx/jactivelte:5.0.1/LRX22C/I9295XXUDOB4:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "jactiveltexx",
+    "DEVICE": "jactivelte",
+    "RELEASE": "5.0.1",
+    "ID": "LRX22C",
+    "INCREMENTAL": "I9295XXUDOB4",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX22C",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

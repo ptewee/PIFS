@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "SAMSUNG-SM-G900A",
-  "BRAND": "samsung",
-  "PRODUCT": "klteuc",
-  "DEVICE": "klteatt",
-  "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
-  "ID": "LMY47X",
-  "INCREMENTAL": "G900AUCU4COI5",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/klteuc/klteatt:5.1.1/LMY47X/G900AUCU4COI5:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
-  "*.build.id": "LMY47X",
-  "*.security_patch": "",
-  "*.build.version.sdk": "22"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SAMSUNG-SM-G900A",
+    "FINGERPRINT": "samsung/klteuc/klteatt:5.1.1/LMY47X/G900AUCU4COI5:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "klteuc",
+    "DEVICE": "klteatt",
+    "RELEASE": "5.1.1",
+    "ID": "LMY47X",
+    "INCREMENTAL": "G900AUCU4COI5",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47X",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

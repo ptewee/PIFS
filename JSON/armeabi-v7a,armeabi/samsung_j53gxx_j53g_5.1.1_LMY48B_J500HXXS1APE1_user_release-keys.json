@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "SM-J500H",
-  "BRAND": "samsung",
-  "PRODUCT": "j53gxx",
-  "DEVICE": "j53g",
-  "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
-  "ID": "LMY48B",
-  "INCREMENTAL": "J500HXXS1APE1",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/j53gxx/j53g:5.1.1/LMY48B/J500HXXS1APE1:user/release-keys",
-  "SECURITY_PATCH": "2016-05-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
-  "*.build.id": "LMY48B",
-  "*.security_patch": "2016-05-01",
-  "*.build.version.sdk": "22"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-J500H",
+    "FINGERPRINT": "samsung/j53gxx/j53g:5.1.1/LMY48B/J500HXXS1APE1:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "j53gxx",
+    "DEVICE": "j53g",
+    "RELEASE": "5.1.1",
+    "ID": "LMY48B",
+    "INCREMENTAL": "J500HXXS1APE1",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2016-05-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY48B",
+    "*.security_patch": "2016-05-01",
+    "*api_level": "25"
 }
