@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "GT-I8160",
-  "BRAND": "samsung",
-  "PRODUCT": "GT-I8160",
-  "DEVICE": "GT-I8160",
-  "RELEASE": "2.3.6",
-  "RELEASE_OR_CODENAME": "2.3.6",
-  "ID": "GINGERBREAD",
-  "INCREMENTAL": "XXLK6",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/GT-I8160/GT-I8160:2.3.6/GINGERBREAD/XXLK6:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
-  "*.build.id": "GINGERBREAD",
-  "*.security_patch": "",
-  "*.build.version.sdk": "10"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "GT-I8160",
+    "FINGERPRINT": "samsung/GT-I8160/GT-I8160:2.3.6/GINGERBREAD/XXLK6:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "GT-I8160",
+    "DEVICE": "GT-I8160",
+    "RELEASE": "2.3.6",
+    "ID": "GINGERBREAD",
+    "INCREMENTAL": "XXLK6",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "GINGERBREAD",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "GT-I9305",
-  "BRAND": "samsung",
-  "PRODUCT": "m3xx",
-  "DEVICE": "m3",
-  "RELEASE": "4.4.4",
-  "RELEASE_OR_CODENAME": "4.4.4",
-  "ID": "KTU84P",
-  "INCREMENTAL": "I9305XXUFNL1",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/m3xx/m3:4.4.4/KTU84P/I9305XXUFNL1:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
-  "*.build.id": "KTU84P",
-  "*.security_patch": "",
-  "*.build.version.sdk": "19"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "GT-I9305",
+    "FINGERPRINT": "samsung/m3xx/m3:4.4.4/KTU84P/I9305XXUFNL1:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "m3xx",
+    "DEVICE": "m3",
+    "RELEASE": "4.4.4",
+    "ID": "KTU84P",
+    "INCREMENTAL": "I9305XXUFNL1",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KTU84P",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

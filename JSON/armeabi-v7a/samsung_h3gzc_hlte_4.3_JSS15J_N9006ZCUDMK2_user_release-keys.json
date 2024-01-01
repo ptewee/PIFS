@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "SM-N9006",
-  "BRAND": "samsung",
-  "PRODUCT": "h3gzc",
-  "DEVICE": "hlte",
-  "RELEASE": "4.3",
-  "RELEASE_OR_CODENAME": "4.3",
-  "ID": "JSS15J",
-  "INCREMENTAL": "N9006ZCUDMK2",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/h3gzc/hlte:4.3/JSS15J/N9006ZCUDMK2:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 18,
-  "*.build.id": "JSS15J",
-  "*.security_patch": "",
-  "*.build.version.sdk": "18"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-N9006",
+    "FINGERPRINT": "samsung/h3gzc/hlte:4.3/JSS15J/N9006ZCUDMK2:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "h3gzc",
+    "DEVICE": "hlte",
+    "RELEASE": "4.3",
+    "ID": "JSS15J",
+    "INCREMENTAL": "N9006ZCUDMK2",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JSS15J",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "GT-S7582",
-  "BRAND": "samsung",
-  "PRODUCT": "kyleprodsxx",
-  "DEVICE": "kyleprods",
-  "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
-  "ID": "JDQ39",
-  "INCREMENTAL": "S7582XXUANA2",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/kyleprodsxx/kyleprods:4.2.2/JDQ39/S7582XXUANA2:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JDQ39",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "GT-S7582",
+    "FINGERPRINT": "samsung/kyleprodsxx/kyleprods:4.2.2/JDQ39/S7582XXUANA2:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "kyleprodsxx",
+    "DEVICE": "kyleprods",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "S7582XXUANA2",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
