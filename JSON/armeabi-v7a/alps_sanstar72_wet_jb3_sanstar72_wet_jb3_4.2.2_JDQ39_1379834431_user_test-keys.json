@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "alps",
-  "MODEL": "1Phone5",
-  "BRAND": "Apple",
-  "PRODUCT": "sanstar72_wet_jb3",
-  "DEVICE": "sanstar72_wet_jb3",
-  "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
-  "ID": "JDQ39",
-  "INCREMENTAL": "eng.sz_server.1379834431",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "alps/sanstar72_wet_jb3/sanstar72_wet_jb3:4.2.2/JDQ39/1379834431:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JDQ39",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "alps",
+    "MODEL": "1Phone5",
+    "FINGERPRINT": "alps/sanstar72_wet_jb3/sanstar72_wet_jb3:4.2.2/JDQ39/1379834431:user/test-keys",
+    "BRAND": "Apple",
+    "PRODUCT": "sanstar72_wet_jb3",
+    "DEVICE": "sanstar72_wet_jb3",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "eng.sz_server.1379834431",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
