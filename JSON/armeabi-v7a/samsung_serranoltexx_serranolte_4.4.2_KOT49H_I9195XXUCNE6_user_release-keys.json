@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "GT-I9195",
-  "BRAND": "samsung",
-  "PRODUCT": "serranoltexx",
-  "DEVICE": "serranolte",
-  "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
-  "ID": "KOT49H",
-  "INCREMENTAL": "I9195XXUCNE6",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/serranoltexx/serranolte:4.4.2/KOT49H/I9195XXUCNE6:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
-  "*.build.id": "KOT49H",
-  "*.security_patch": "",
-  "*.build.version.sdk": "19"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "GT-I9195",
+    "FINGERPRINT": "samsung/serranoltexx/serranolte:4.4.2/KOT49H/I9195XXUCNE6:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "serranoltexx",
+    "DEVICE": "serranolte",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "I9195XXUCNE6",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

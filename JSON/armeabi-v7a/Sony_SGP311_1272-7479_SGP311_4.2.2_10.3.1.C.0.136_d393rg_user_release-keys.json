@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Sony",
-  "MODEL": "SGP311",
-  "BRAND": "Sony",
-  "PRODUCT": "SGP311_1272-7479",
-  "DEVICE": "SGP311",
-  "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
-  "ID": "10.3.1.C.0.136",
-  "INCREMENTAL": "d393rg",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Sony/SGP311_1272-7479/SGP311:4.2.2/10.3.1.C.0.136/d393rg:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "10.3.1.C.0.136",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "Sony",
+    "MODEL": "SGP311",
+    "FINGERPRINT": "Sony/SGP311_1272-7479/SGP311:4.2.2/10.3.1.C.0.136/d393rg:user/release-keys",
+    "BRAND": "Sony",
+    "PRODUCT": "SGP311_1272-7479",
+    "DEVICE": "SGP311",
+    "RELEASE": "4.2.2",
+    "ID": "10.3.1.C.0.136",
+    "INCREMENTAL": "d393rg",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "10.3.1.C.0.136",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

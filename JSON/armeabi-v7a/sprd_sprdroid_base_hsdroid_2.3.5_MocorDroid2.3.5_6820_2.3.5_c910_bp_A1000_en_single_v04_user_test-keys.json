@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "sprd",
-  "MODEL": "A1000",
-  "BRAND": "sprd",
-  "PRODUCT": "sprdroid_base",
-  "DEVICE": "hsdroid",
-  "RELEASE": "2.3.5",
-  "RELEASE_OR_CODENAME": "2.3.5",
-  "ID": "MocorDroid2.3.5",
-  "INCREMENTAL": "6820_2.3.5_c910_bp_A1000_en_single_v04",
-  "TYPE": "user",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "sprd/sprdroid_base/hsdroid:2.3.5/MocorDroid2.3.5/6820_2.3.5_c910_bp_A1000_en_single_v04:user/test-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 10,
-  "*.build.id": "MocorDroid2.3.5",
-  "*.security_patch": "",
-  "*.build.version.sdk": "10"
+  // Build Fields
+    "MANUFACTURER": "sprd",
+    "MODEL": "A1000",
+    "FINGERPRINT": "sprd/sprdroid_base/hsdroid:2.3.5/MocorDroid2.3.5/6820_2.3.5_c910_bp_A1000_en_single_v04:user/test-keys",
+    "BRAND": "sprd",
+    "PRODUCT": "sprdroid_base",
+    "DEVICE": "hsdroid",
+    "RELEASE": "2.3.5",
+    "ID": "MocorDroid2.3.5",
+    "INCREMENTAL": "6820_2.3.5_c910_bp_A1000_en_single_v04",
+    "TYPE": "user",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MocorDroid2.3.5",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

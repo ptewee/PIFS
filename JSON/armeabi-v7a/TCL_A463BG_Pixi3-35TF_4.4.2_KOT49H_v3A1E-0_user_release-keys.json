@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "TCL",
-  "MODEL": "A463BG",
-  "BRAND": "TCL",
-  "PRODUCT": "A463BG",
-  "DEVICE": "Pixi3-35TF",
-  "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
-  "ID": "KOT49H",
-  "INCREMENTAL": "v3A1E-0",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "TCL/A463BG/Pixi3-35TF:4.4.2/KOT49H/v3A1E-0:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
-  "*.build.id": "KOT49H",
-  "*.security_patch": "",
-  "*.build.version.sdk": "19"
+  // Build Fields
+    "MANUFACTURER": "TCL",
+    "MODEL": "A463BG",
+    "FINGERPRINT": "TCL/A463BG/Pixi3-35TF:4.4.2/KOT49H/v3A1E-0:user/release-keys",
+    "BRAND": "TCL",
+    "PRODUCT": "A463BG",
+    "DEVICE": "Pixi3-35TF",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "v3A1E-0",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

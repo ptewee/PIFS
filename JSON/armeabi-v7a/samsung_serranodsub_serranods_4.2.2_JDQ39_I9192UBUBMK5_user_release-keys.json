@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "GT-I9192",
-  "BRAND": "samsung",
-  "PRODUCT": "serranodsub",
-  "DEVICE": "serranods",
-  "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
-  "ID": "JDQ39",
-  "INCREMENTAL": "I9192UBUBMK5",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/serranodsub/serranods:4.2.2/JDQ39/I9192UBUBMK5:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JDQ39",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "GT-I9192",
+    "FINGERPRINT": "samsung/serranodsub/serranods:4.2.2/JDQ39/I9192UBUBMK5:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "serranodsub",
+    "DEVICE": "serranods",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "I9192UBUBMK5",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

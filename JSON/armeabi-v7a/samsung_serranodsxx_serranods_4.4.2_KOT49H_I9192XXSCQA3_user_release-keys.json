@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "GT-I9192",
-  "BRAND": "samsung",
-  "PRODUCT": "serranodsxx",
-  "DEVICE": "serranods",
-  "RELEASE": "4.4.2",
-  "RELEASE_OR_CODENAME": "4.4.2",
-  "ID": "KOT49H",
-  "INCREMENTAL": "I9192XXSCQA3",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/serranodsxx/serranods:4.4.2/KOT49H/I9192XXSCQA3:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 19,
-  "*.build.id": "KOT49H",
-  "*.security_patch": "",
-  "*.build.version.sdk": "19"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "GT-I9192",
+    "FINGERPRINT": "samsung/serranodsxx/serranods:4.4.2/KOT49H/I9192XXSCQA3:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "serranodsxx",
+    "DEVICE": "serranods",
+    "RELEASE": "4.4.2",
+    "ID": "KOT49H",
+    "INCREMENTAL": "I9192XXSCQA3",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "KOT49H",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

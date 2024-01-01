@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "TCL",
-  "MODEL": "6037Y",
-  "BRAND": "TCL",
-  "PRODUCT": "6037Y",
-  "DEVICE": "Eclipse",
-  "RELEASE": "4.2.2",
-  "RELEASE_OR_CODENAME": "4.2.2",
-  "ID": "JDQ39",
-  "INCREMENTAL": "vEHZ-0",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "TCL/6037Y/Eclipse:4.2.2/JDQ39/vEHZ-0:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 17,
-  "*.build.id": "JDQ39",
-  "*.security_patch": "",
-  "*.build.version.sdk": "17"
+  // Build Fields
+    "MANUFACTURER": "TCL",
+    "MODEL": "6037Y",
+    "FINGERPRINT": "TCL/6037Y/Eclipse:4.2.2/JDQ39/vEHZ-0:user/release-keys",
+    "BRAND": "TCL",
+    "PRODUCT": "6037Y",
+    "DEVICE": "Eclipse",
+    "RELEASE": "4.2.2",
+    "ID": "JDQ39",
+    "INCREMENTAL": "vEHZ-0",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "JDQ39",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
