@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "LENOVO",
-  "MODEL": "Lenovo A6000",
-  "BRAND": "Lenovo",
-  "PRODUCT": "Kraft-A6000",
-  "DEVICE": "Kraft-A6000",
-  "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
-  "ID": "LRX22G",
-  "INCREMENTAL": "A6000_S016_150815_8G_BG",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Lenovo/Kraft-A6000/Kraft-A6000:5.0.2/LRX22G/A6000_S016_150815_8G_BG:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
-  "*.build.id": "LRX22G",
-  "*.security_patch": "",
-  "*.build.version.sdk": "21"
+  // Build Fields
+    "MANUFACTURER": "LENOVO",
+    "MODEL": "Lenovo A6000",
+    "FINGERPRINT": "Lenovo/Kraft-A6000/Kraft-A6000:5.0.2/LRX22G/A6000_S016_150815_8G_BG:user/release-keys",
+    "BRAND": "Lenovo",
+    "PRODUCT": "Kraft-A6000",
+    "DEVICE": "Kraft-A6000",
+    "RELEASE": "5.0.2",
+    "ID": "LRX22G",
+    "INCREMENTAL": "A6000_S016_150815_8G_BG",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX22G",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

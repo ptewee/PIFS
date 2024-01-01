@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "LGE",
-  "MODEL": "VS980 4G",
-  "BRAND": "lge",
-  "PRODUCT": "g2_vzw",
-  "DEVICE": "g2",
-  "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
-  "ID": "LRX22G",
-  "INCREMENTAL": "15046001715f9",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "lge/g2_vzw/g2:5.0.2/LRX22G/15046001715f9:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
-  "*.build.id": "LRX22G",
-  "*.security_patch": "",
-  "*.build.version.sdk": "21"
+  // Build Fields
+    "MANUFACTURER": "LGE",
+    "MODEL": "VS980 4G",
+    "FINGERPRINT": "lge/g2_vzw/g2:5.0.2/LRX22G/15046001715f9:user/release-keys",
+    "BRAND": "lge",
+    "PRODUCT": "g2_vzw",
+    "DEVICE": "g2",
+    "RELEASE": "5.0.2",
+    "ID": "LRX22G",
+    "INCREMENTAL": "15046001715f9",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX22G",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

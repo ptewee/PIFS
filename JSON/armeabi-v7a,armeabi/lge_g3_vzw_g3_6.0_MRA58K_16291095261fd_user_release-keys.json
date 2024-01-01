@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "LGE",
-  "MODEL": "VS985 4G",
-  "BRAND": "lge",
-  "PRODUCT": "g3_vzw",
-  "DEVICE": "g3",
-  "RELEASE": "6.0",
-  "RELEASE_OR_CODENAME": "6.0",
-  "ID": "MRA58K",
-  "INCREMENTAL": "16291095261fd",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "lge/g3_vzw/g3:6.0/MRA58K/16291095261fd:user/release-keys",
-  "SECURITY_PATCH": "2016-10-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 23,
-  "*.build.id": "MRA58K",
-  "*.security_patch": "2016-10-01",
-  "*.build.version.sdk": "23"
+  // Build Fields
+    "MANUFACTURER": "LGE",
+    "MODEL": "VS985 4G",
+    "FINGERPRINT": "lge/g3_vzw/g3:6.0/MRA58K/16291095261fd:user/release-keys",
+    "BRAND": "lge",
+    "PRODUCT": "g3_vzw",
+    "DEVICE": "g3",
+    "RELEASE": "6.0",
+    "ID": "MRA58K",
+    "INCREMENTAL": "16291095261fd",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2016-10-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "MRA58K",
+    "*.security_patch": "2016-10-01",
+    "*api_level": "25"
 }

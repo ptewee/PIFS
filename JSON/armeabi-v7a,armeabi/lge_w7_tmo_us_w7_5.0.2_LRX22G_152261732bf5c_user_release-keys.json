@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "LGE",
-  "MODEL": "LG-D415",
-  "BRAND": "lge",
-  "PRODUCT": "w7_tmo_us",
-  "DEVICE": "w7",
-  "RELEASE": "5.0.2",
-  "RELEASE_OR_CODENAME": "5.0.2",
-  "ID": "LRX22G",
-  "INCREMENTAL": "152261732bf5c",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "lge/w7_tmo_us/w7:5.0.2/LRX22G/152261732bf5c:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 21,
-  "*.build.id": "LRX22G",
-  "*.security_patch": "",
-  "*.build.version.sdk": "21"
+  // Build Fields
+    "MANUFACTURER": "LGE",
+    "MODEL": "LG-D415",
+    "FINGERPRINT": "lge/w7_tmo_us/w7:5.0.2/LRX22G/152261732bf5c:user/release-keys",
+    "BRAND": "lge",
+    "PRODUCT": "w7_tmo_us",
+    "DEVICE": "w7",
+    "RELEASE": "5.0.2",
+    "ID": "LRX22G",
+    "INCREMENTAL": "152261732bf5c",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LRX22G",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
