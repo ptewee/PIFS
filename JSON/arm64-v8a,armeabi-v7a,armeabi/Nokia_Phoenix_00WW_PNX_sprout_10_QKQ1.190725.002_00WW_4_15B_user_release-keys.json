@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Unknown",
-  "MODEL": "Nokia 8.1",
-  "BRAND": "Unknown",
-  "PRODUCT": "PNX_00WW_FIH",
-  "DEVICE": "PNX",
-  "RELEASE": "10",
-  "RELEASE_OR_CODENAME": "10",
-  "ID": "QKQ1.190725.002",
-  "INCREMENTAL": "00WW_4_15B",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Nokia/Phoenix_00WW/PNX_sprout:10/QKQ1.190725.002/00WW_4_15B:user/release-keys",
-  "SECURITY_PATCH": "2019-09-05",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 29,
-  "*.build.id": "QKQ1.190725.002",
-  "*.security_patch": "2019-09-05",
-  "*.build.version.sdk": "29"
+  // Build Fields
+    "MANUFACTURER": "Unknown",
+    "MODEL": "Nokia 8.1",
+    "FINGERPRINT": "Nokia/Phoenix_00WW/PNX_sprout:10/QKQ1.190725.002/00WW_4_15B:user/release-keys",
+    "BRAND": "Unknown",
+    "PRODUCT": "PNX_00WW_FIH",
+    "DEVICE": "PNX",
+    "RELEASE": "10",
+    "ID": "QKQ1.190725.002",
+    "INCREMENTAL": "00WW_4_15B",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2019-09-05",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "QKQ1.190725.002",
+    "*.security_patch": "2019-09-05",
+    "*api_level": "25"
 }

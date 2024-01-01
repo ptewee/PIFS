@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Xiaomi",
-  "MODEL": "missi system image for arm64",
-  "BRAND": "qti",
-  "PRODUCT": "missi",
-  "DEVICE": "missi",
-  "RELEASE": "11",
-  "RELEASE_OR_CODENAME": "11",
-  "ID": "RKQ1.210503.001",
-  "INCREMENTAL": "21.9.8",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "qti/missi/missi:11/RKQ1.210503.001/21.9.8:user/release-keys",
-  "SECURITY_PATCH": "2021-09-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 30,
-  "*.build.id": "RKQ1.210503.001",
-  "*.security_patch": "2021-09-01",
-  "*.build.version.sdk": "30"
+  // Build Fields
+    "MANUFACTURER": "Xiaomi",
+    "MODEL": "missi system image for arm64",
+    "FINGERPRINT": "qti/missi/missi:11/RKQ1.210503.001/21.9.8:user/release-keys",
+    "BRAND": "qti",
+    "PRODUCT": "missi",
+    "DEVICE": "missi",
+    "RELEASE": "11",
+    "ID": "RKQ1.210503.001",
+    "INCREMENTAL": "21.9.8",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2021-09-01",
+    "DEVICE_INITIAL_SDK_INT": "30",
+
+  // System Properties
+    "*.build.id": "RKQ1.210503.001",
+    "*.security_patch": "2021-09-01",
+    "*api_level": "30"
 }

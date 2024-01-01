@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Meizu",
-  "MODEL": "m2",
-  "BRAND": "Meizu",
-  "PRODUCT": "m2",
-  "DEVICE": "m2",
-  "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
-  "ID": "LMY47D",
-  "INCREMENTAL": "1450664547",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Meizu/meizu_m2/m2:5.1/LMY47D/1450664547:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
-  "*.build.id": "LMY47D",
-  "*.security_patch": "",
-  "*.build.version.sdk": "22"
+  // Build Fields
+    "MANUFACTURER": "Meizu",
+    "MODEL": "m2",
+    "FINGERPRINT": "Meizu/meizu_m2/m2:5.1/LMY47D/1450664547:user/release-keys",
+    "BRAND": "Meizu",
+    "PRODUCT": "m2",
+    "DEVICE": "m2",
+    "RELEASE": "5.1",
+    "ID": "LMY47D",
+    "INCREMENTAL": "1450664547",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47D",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
