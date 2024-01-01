@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "rockchip",
-  "MODEL": "rk322x-box",
-  "BRAND": "Android",
-  "PRODUCT": "rk322x_box",
-  "DEVICE": "rk322x_box",
-  "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
-  "ID": "LMY49F",
-  "INCREMENTAL": "eng.wanghy.20161021.165227",
-  "TYPE": "userdebug",
-  "TAGS": "test-keys",
-  "FINGERPRINT": "Android/rk322x_box/rk322x_box:5.1.1/LMY49F/wanghy10211701:userdebug/test-keys",
-  "SECURITY_PATCH": "2016-04-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
-  "*.build.id": "LMY49F",
-  "*.security_patch": "2016-04-01",
-  "*.build.version.sdk": "22"
+  // Build Fields
+    "MANUFACTURER": "rockchip",
+    "MODEL": "rk322x-box",
+    "FINGERPRINT": "Android/rk322x_box/rk322x_box:5.1.1/LMY49F/wanghy10211701:userdebug/test-keys",
+    "BRAND": "Android",
+    "PRODUCT": "rk322x_box",
+    "DEVICE": "rk322x_box",
+    "RELEASE": "5.1.1",
+    "ID": "LMY49F",
+    "INCREMENTAL": "eng.wanghy.20161021.165227",
+    "TYPE": "userdebug",
+    "TAGS": "test-keys",
+    "SECURITY_PATCH": "2016-04-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY49F",
+    "*.security_patch": "2016-04-01",
+    "*api_level": "25"
 }

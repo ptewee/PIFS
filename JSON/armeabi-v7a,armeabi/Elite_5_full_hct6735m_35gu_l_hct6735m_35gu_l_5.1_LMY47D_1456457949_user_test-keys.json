@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Elite 5",
-  "MODEL": "Elite 5",
-  "BRAND": "Elite_5",
-  "PRODUCT": "full_hct6735m_35gu_l",
-  "DEVICE": "hct6735m_35gu_l",
-  "RELEASE": "5.1",
-  "RELEASE_OR_CODENAME": "5.1",
-  "ID": "LMY47D",
-  "INCREMENTAL": "1456457949",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Elite_5/full_hct6735m_35gu_l/hct6735m_35gu_l:5.1/LMY47D/1456457949:user/test-keys",
-  "SECURITY_PATCH": "2015-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
-  "*.build.id": "LMY47D",
-  "*.security_patch": "2015-11-01",
-  "*.build.version.sdk": "22"
+  // Build Fields
+    "MANUFACTURER": "Elite 5",
+    "MODEL": "Elite 5",
+    "FINGERPRINT": "Elite_5/full_hct6735m_35gu_l/hct6735m_35gu_l:5.1/LMY47D/1456457949:user/test-keys",
+    "BRAND": "Elite_5",
+    "PRODUCT": "full_hct6735m_35gu_l",
+    "DEVICE": "hct6735m_35gu_l",
+    "RELEASE": "5.1",
+    "ID": "LMY47D",
+    "INCREMENTAL": "1456457949",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2015-11-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY47D",
+    "*.security_patch": "2015-11-01",
+    "*api_level": "25"
 }

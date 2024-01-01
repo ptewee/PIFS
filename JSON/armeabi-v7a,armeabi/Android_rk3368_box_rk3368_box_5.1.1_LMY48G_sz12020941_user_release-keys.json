@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "rockchip",
-  "MODEL": "R68G",
-  "BRAND": "Android",
-  "PRODUCT": "rk3368_box",
-  "DEVICE": "rk3368_box",
-  "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
-  "ID": "LMY48G",
-  "INCREMENTAL": "eng.sz.20151202.093646",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Android/rk3368_box/rk3368_box:5.1.1/LMY48G/sz12020941:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
-  "*.build.id": "LMY48G",
-  "*.security_patch": "",
-  "*.build.version.sdk": "22"
+  // Build Fields
+    "MANUFACTURER": "rockchip",
+    "MODEL": "R68G",
+    "FINGERPRINT": "Android/rk3368_box/rk3368_box:5.1.1/LMY48G/sz12020941:user/release-keys",
+    "BRAND": "Android",
+    "PRODUCT": "rk3368_box",
+    "DEVICE": "rk3368_box",
+    "RELEASE": "5.1.1",
+    "ID": "LMY48G",
+    "INCREMENTAL": "eng.sz.20151202.093646",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LMY48G",
+    "*.security_patch": "",
+    "*api_level": "25"
 }

@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "Amazon",
-  "MODEL": "KFDOWI",
-  "BRAND": "Amazon",
-  "PRODUCT": "douglas",
-  "DEVICE": "douglas",
-  "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
-  "ID": "LVY48F",
-  "INCREMENTAL": "50.6.3.6_user_636558720",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "Amazon/douglas/douglas:5.1.1/LVY48F/50.6.3.6_user_636558720:user/release-keys",
-  "SECURITY_PATCH": "2018-03-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
-  "*.build.id": "LVY48F",
-  "*.security_patch": "2018-03-01",
-  "*.build.version.sdk": "22"
+  // Build Fields
+    "MANUFACTURER": "Amazon",
+    "MODEL": "KFDOWI",
+    "FINGERPRINT": "Amazon/douglas/douglas:5.1.1/LVY48F/50.6.3.6_user_636558720:user/release-keys",
+    "BRAND": "Amazon",
+    "PRODUCT": "douglas",
+    "DEVICE": "douglas",
+    "RELEASE": "5.1.1",
+    "ID": "LVY48F",
+    "INCREMENTAL": "50.6.3.6_user_636558720",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2018-03-01",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LVY48F",
+    "*.security_patch": "2018-03-01",
+    "*api_level": "25"
 }
