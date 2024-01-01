@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "ZTE",
-  "MODEL": "Z855",
-  "BRAND": "ZTE",
-  "PRODUCT": "Z855",
-  "DEVICE": "calbee",
-  "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
-  "ID": "NMF26V",
-  "INCREMENTAL": "20180806.011537",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "ZTE/Z855/calbee:7.1.1/NMF26V/20180806.011537:user/release-keys",
-  "SECURITY_PATCH": "2018-08-01",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 25,
-  "*.build.id": "NMF26V",
-  "*.security_patch": "2018-08-01",
-  "*.build.version.sdk": "25"
+  // Build Fields
+    "MANUFACTURER": "ZTE",
+    "MODEL": "Z855",
+    "FINGERPRINT": "ZTE/Z855/calbee:7.1.1/NMF26V/20180806.011537:user/release-keys",
+    "BRAND": "ZTE",
+    "PRODUCT": "Z855",
+    "DEVICE": "calbee",
+    "RELEASE": "7.1.1",
+    "ID": "NMF26V",
+    "INCREMENTAL": "20180806.011537",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2018-08-01",
+    "DEVICE_INITIAL_SDK_INT": "24",
+
+  // System Properties
+    "*.build.id": "NMF26V",
+    "*.security_patch": "2018-08-01",
+    "*api_level": "24"
 }

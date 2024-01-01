@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "ZTE",
-  "MODEL": "Z899VL",
-  "BRAND": "ZTE",
-  "PRODUCT": "Z899VL",
-  "DEVICE": "elden",
-  "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
-  "ID": "NMF26V",
-  "INCREMENTAL": "20170620.054013",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "ZTE/Z899VL/elden:7.1.1/NMF26V/20170620.054013:user/release-keys",
-  "SECURITY_PATCH": "2017-06-01",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 25,
-  "*.build.id": "NMF26V",
-  "*.security_patch": "2017-06-01",
-  "*.build.version.sdk": "25"
+  // Build Fields
+    "MANUFACTURER": "ZTE",
+    "MODEL": "Z899VL",
+    "FINGERPRINT": "ZTE/Z899VL/elden:7.1.1/NMF26V/20170620.054013:user/release-keys",
+    "BRAND": "ZTE",
+    "PRODUCT": "Z899VL",
+    "DEVICE": "elden",
+    "RELEASE": "7.1.1",
+    "ID": "NMF26V",
+    "INCREMENTAL": "20170620.054013",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2017-06-01",
+    "DEVICE_INITIAL_SDK_INT": "24",
+
+  // System Properties
+    "*.build.id": "NMF26V",
+    "*.security_patch": "2017-06-01",
+    "*api_level": "24"
 }

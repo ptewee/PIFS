@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "ZTE",
-  "MODEL": "Z839",
-  "BRAND": "ZTE",
-  "PRODUCT": "Z839",
-  "DEVICE": "sweet",
-  "RELEASE": "7.1.1",
-  "RELEASE_OR_CODENAME": "7.1.1",
-  "ID": "NMF26V",
-  "INCREMENTAL": "20190620.173333",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "ZTE/Z839/sweet:7.1.1/NMF26V/20190620.173333:user/release-keys",
-  "SECURITY_PATCH": "2019-07-01",
-  "DEVICE_INITIAL_SDK_INT": 24,
-  "SDK_INT": 25,
-  "*.build.id": "NMF26V",
-  "*.security_patch": "2019-07-01",
-  "*.build.version.sdk": "25"
+  // Build Fields
+    "MANUFACTURER": "ZTE",
+    "MODEL": "Z839",
+    "FINGERPRINT": "ZTE/Z839/sweet:7.1.1/NMF26V/20190620.173333:user/release-keys",
+    "BRAND": "ZTE",
+    "PRODUCT": "Z839",
+    "DEVICE": "sweet",
+    "RELEASE": "7.1.1",
+    "ID": "NMF26V",
+    "INCREMENTAL": "20190620.173333",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2019-07-01",
+    "DEVICE_INITIAL_SDK_INT": "24",
+
+  // System Properties
+    "*.build.id": "NMF26V",
+    "*.security_patch": "2019-07-01",
+    "*api_level": "24"
 }
