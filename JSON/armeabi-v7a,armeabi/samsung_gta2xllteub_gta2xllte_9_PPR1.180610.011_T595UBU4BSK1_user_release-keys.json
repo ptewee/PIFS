@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "samsung",
-  "MODEL": "SM-T595",
-  "BRAND": "samsung",
-  "PRODUCT": "gta2xllteub",
-  "DEVICE": "gta2xllte",
-  "RELEASE": "9",
-  "RELEASE_OR_CODENAME": "9",
-  "ID": "PPR1.180610.011",
-  "INCREMENTAL": "T595UBU4BSK1",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "samsung/gta2xllteub/gta2xllte:9/PPR1.180610.011/T595UBU4BSK1:user/release-keys",
-  "SECURITY_PATCH": "2019-11-01",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 28,
-  "*.build.id": "PPR1.180610.011",
-  "*.security_patch": "2019-11-01",
-  "*.build.version.sdk": "28"
+  // Build Fields
+    "MANUFACTURER": "samsung",
+    "MODEL": "SM-T595",
+    "FINGERPRINT": "samsung/gta2xllteub/gta2xllte:9/PPR1.180610.011/T595UBU4BSK1:user/release-keys",
+    "BRAND": "samsung",
+    "PRODUCT": "gta2xllteub",
+    "DEVICE": "gta2xllte",
+    "RELEASE": "9",
+    "ID": "PPR1.180610.011",
+    "INCREMENTAL": "T595UBU4BSK1",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "2019-11-01",
+    "DEVICE_INITIAL_SDK_INT": "27",
+
+  // System Properties
+    "*.build.id": "PPR1.180610.011",
+    "*.security_patch": "2019-11-01",
+    "*api_level": "27"
 }

@@ -1,20 +1,21 @@
 {
-  "MANUFACTURER": "motorola",
-  "MODEL": "MotoG3",
-  "BRAND": "motorola",
-  "PRODUCT": "osprey_sprint",
-  "DEVICE": "osprey_cdma",
-  "RELEASE": "5.1.1",
-  "RELEASE_OR_CODENAME": "5.1.1",
-  "ID": "LPI23.72-32-S.28.5",
-  "INCREMENTAL": "6",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "motorola/osprey_sprint/osprey_cdma:5.1.1/LPI23.72-32-S.28.5/6:user/release-keys",
-  "SECURITY_PATCH": "",
-  "DEVICE_INITIAL_SDK_INT": 25,
-  "SDK_INT": 22,
-  "*.build.id": "LPI23.72-32-S.28.5",
-  "*.security_patch": "",
-  "*.build.version.sdk": "22"
+  // Build Fields
+    "MANUFACTURER": "motorola",
+    "MODEL": "MotoG3",
+    "FINGERPRINT": "motorola/osprey_sprint/osprey_cdma:5.1.1/LPI23.72-32-S.28.5/6:user/release-keys",
+    "BRAND": "motorola",
+    "PRODUCT": "osprey_sprint",
+    "DEVICE": "osprey_cdma",
+    "RELEASE": "5.1.1",
+    "ID": "LPI23.72-32-S.28.5",
+    "INCREMENTAL": "6",
+    "TYPE": "user",
+    "TAGS": "release-keys",
+    "SECURITY_PATCH": "",
+    "DEVICE_INITIAL_SDK_INT": "25",
+
+  // System Properties
+    "*.build.id": "LPI23.72-32-S.28.5",
+    "*.security_patch": "",
+    "*api_level": "25"
 }
