@@ -1,4 +1,4 @@
-Forked from [TheFreeman193's repo](https://github.com/TheFreeman193/PIFS) with additions such as:
+Forked from [TheFreeman193's repo](https://github.com/TheFreeman193/PIFS) (v100) with additions such as:
 
 - Flag tested profiles by moving them into a 'tested' folder, these will not be selected again during next run
 - Fallback to fuzzy-match for ABIlist folder, e.g., if the detected ABI is `arm64-v8a`, after all JSONs have been tested in the main folder `arm64-v8a`, it will use JSONs from the following folders next, before using random folders:
